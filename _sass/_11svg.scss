@@ -1,0 +1,31 @@
+.svg_color {
+  fill: $link_color;
+
+  #icn--junglestar & {
+    fill: black;
+  }
+}
+
+svg {
+  .handwriting & {
+    margin-top: $space--small;
+    height: 50px;
+    width: auto;
+    fill: $black;
+    opacity: 1;
+  }
+}
+
+svg.welcome_tag {
+  margin-top: $space;
+}
+
+svg.menu_tag {
+  height: 75px;
+}
+
+svg.qr_svg {
+  width: 100px;
+  height: 100px;
+  margin-left: -4px;
+}

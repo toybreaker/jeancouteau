@@ -1,0 +1,88 @@
+// header main menu
+
+.menu {
+  // user-select: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  //margin-bottom: 14px;
+
+  @include media("screen", ">bp1Width") {
+    flex-direction: row;
+  }
+
+  .menu_item {
+    //a
+    cursor: pointer;
+    min-height: 42px;
+    display: flex;
+    align-items: center;
+    margin: 0;
+
+    .menu_dishes & {
+      border-radius: $radius;
+    }
+
+    &:focus,
+    &:hover {}
+
+    span {
+      white-space: nowrap;
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+}
+
+// food menu ( the real casAsia menu)
+.food_icons {
+  display: flex;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  margin-top: 10px;
+
+  .row--three & {
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    flex-direction: row;
+  }
+
+  .food_icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 50px;
+    @include media("screen", ">bp1Width") {
+      min-width: 60px;
+    }
+    @include media("screen", ">maxWidth") {
+      min-width: 70px;
+    }
+
+    .expandable_menu & {
+      min-width: 30px;
+    }
+
+    svg {
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      width: 28px!important;
+      height: 28px!important;
+      margin-right: 4px;
+    }
+
+    &.wait {
+      .expandable_menu & {
+        flex-direction: row;
+        min-width: 0;
+      }
+    }
+  }
+}

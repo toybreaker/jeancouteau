@@ -1,0 +1,57 @@
+$font_family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+
+$font_family_serif: Courier New,Courier,monospace;
+
+// colors
+$black: hsl(0,0%,0%);
+$darkening_black: hsla(0,0%,0%,0.5);
+$white: hsla(0, 0%, 100%, 1);
+$link_color: hsl(0,0%,0%);
+$bg_color: hsl(0, 0%, 96%);
+$grey: hsl(0,0%,25%);
+$grey--light: hsl(0,0%,85%);
+$brand_color: hsl(205, 100%, 51%);
+$underline_link_color: #b4e7f8;
+
+$space: 2rem;
+$space--small: 1rem;
+
+//typography
+$base_font_size--tiny: 17px;
+$base_font-size--min: 17px;
+$base_font_size--bp1: 18px;
+$base_font_size--max: 19px;
+$base_line_height: 1.4446;
+
+$light_font_weight: 200;
+$base_font_weight: 400;
+$bold_font_weight: 600;
+$heavy_font_weight: 800;
+
+$heading1: 2rem; //1.65rem;
+$heading2: $heading1/8*6;
+$heading3: $heading1/8*5;
+
+//all svg icons are square:
+$icon_size: 30px;
+$food_icon_size: 24px;
+
+//header stuff
+$header_height: 330px;
+$actual_fullscreen_minus_header_height: calc(100vh - 250px); //bs!
+
+//box-shadows
+$shadow--smooth: 0 2.2px 3.6px -15px rgba(0, 0, 0, 0.031), 0 6px 12.8px -15px rgba(0, 0, 0, 0.039), 0 14.5px 30.9px -15px rgba(0, 0, 0, 0.045), 0 48px 80px -15px rgba(0, 0, 0, 0.07);
+
+//text-shadows
+$shadow--text: 1px 3px 10px rgba(20, 20, 20, 0.4);
+$shadow--transition: box-shadow .2s ease;
+
+$radius: 3px;
+
+//// Predefined Break-points
+$mediaMinWidth: 600px;
+$mediaBp1Width: 840px;
+$mediaMaxWidth: 1260px;
+
+@import "1normalize", "2mixins", "3cmq", "15responsive_font","4base","5container", "6headings", "7menu", "8header", "9footer", "10links", "11svg", "12utils", "13nav", "14titles",;
