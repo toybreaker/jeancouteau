@@ -1,7 +1,6 @@
 ---
-layout: default
-slug: index
+layout: index
 title:
-description: 
+description:
 image:
 ---

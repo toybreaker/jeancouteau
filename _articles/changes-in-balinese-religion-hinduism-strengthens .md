@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Changes in Balinese Religion: Hinduism Strengthens
+title: 'Changes in Balinese Religion: Hinduism Strengthens'
 date:  May 16th, 2017
+author: Jean Couteau
+publish: #notyet if draft
 description:
 image:
 ---

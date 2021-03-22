@@ -1,98 +1,19 @@
 .container {
   max-width: 100%;
-  margin: 0 8vw;
+  margin: 0 5vw;
 
   @include media("screen", ">minWidth") {
-    margin: 0 10vw;
+    margin: 0 8vw;
   }
 
   @include media("screen", ">bp1Width") {
-    margin: 0 15vw;
+    margin: 0 12vw;
   }
 
   @include media("screen", ">maxWidth") {
-    margin: 0 20vw;
+    margin: 0 16vw;
   }
 
-  figure {
-    padding-top: $space--small;
-    padding-bottom: $space--small;
-    width: 100vw;
-    height: auto;
-    margin: 0 -8vw;
-
-    @include media("screen", ">minWidth") {
-      margin: 0 -10vw;
-    }
-
-    @include media("screen", ">bp1Width") {
-      margin: 0 -15vw;
-    }
-
-    @include media("screen", ">maxWidth") {
-      margin: 0 -20vw;
-    }
-
-    &.no_top_padding {
-      padding-top: 0;
-    }
-
-    &.negative_top_margin {
-      margin-top: -$space--small;
-    }
-
-    &.home_stripes {
-      padding-top: 0;
-      padding-bottom: 0;
-      position: relative;
-
-      img {
-        display: block;
-        //vertical-align: top;
-      }
-
-      figcaption {
-        position: absolute;
-        width: 90%;
-        left: 5%;
-        top: 3vh;
-
-        span {
-          border-radius: $radius;
-          border: 1px solid $grey--light;
-          background-color: #fff;
-          font-size: 6vw;
-          text-align: center;
-          padding: .5vw 2vw;
-
-          @include media("screen", ">minWidth") {
-            font-size: 5vw;
-          }
-          @include media("screen", ">bp1Width") {
-            font-size: 4vw;
-          }
-          @include media("screen", ">maxWidth") {
-            font-size: 3vw;
-          }
-        }
-      }
-    }
-  }
-
-  figcaption {
-    text-align: center;
-    display: block;
-    text-transform: uppercase;
-    font-weight: 500;
-    font-size: 80%;
-  }
-
-  &.menu_dishes,
-  &.welcome {
-    border-radius: $radius;
-  }
-
-  .book_now,
   p {
     margin: 0 0 0 auto;
     max-width: 100%;
@@ -123,7 +44,6 @@
   height: 100%;
   position: relative;
   z-index: 8;
-  box-shadow: $shadow--smooth;
 }
 
 .text_content {

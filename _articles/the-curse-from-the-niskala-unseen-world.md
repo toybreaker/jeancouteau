@@ -1,15 +1,14 @@
 ---
-layout: default
-title: The Curse from the ‘Niskala’ Unseen World
+title: 'The Curse from the ‘Niskala’ Unseen World'
 date:   January 28th, 2019
+author: Jean Couteau
+publish: #notyet if draft
 description:
 image:
 ---
-A story about Sekala and Niskala, the seen and unseen world or forces, that are believed to exist in Bali. Dr. Jean Couteau brings yet another one of his Balinese stories – sometimes myth, sometimes a mystery, but always meaningful.
+_A story about Sekala and Niskala, the seen and unseen world or forces, that are believed to exist in Bali. Dr. Jean Couteau brings yet another one of his Balinese stories – sometimes myth, sometimes a mystery, but always meaningful._
 
-These are the objective facts: Gobler was tired. It was night, and he wanted to get home before it was too late.
-
-The road past Punjungan was a pleasantly curvy one through the forest.
+These are the objective facts: Gobler was tired. It was night, and he wanted to get home before it was too late. The road past Punjungan was a pleasantly curvy one through the forest.
 
 It was a beautiful drive, he was comfortable inside his car, and he was glad to see that he would soon overtake and pass the slow truck ahead of him, thus speeding up his trip home a bit.
 

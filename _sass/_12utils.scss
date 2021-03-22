@@ -56,34 +56,7 @@
 }
 
 .border_bottom {
-  border-bottom: 1px solid $black;
-}
-
-.border_top_dotted {
-  border-width: 3px;
-  border-top-style: dotted;
-  border-color: rgba(0,0,0,.25);
-}
-
-.border_bottom_dotted {
-  border-width: 3px;
-  border-bottom-style: dotted;
-  border-color: rgba(0,0,0,.25);
-}
-
-.no_vert_padding {
-  padding-top: 0!important;
-  padding-bottom: 0!important;
-}
-
-.no_vert_margin {
-  margin-top: 0!important;
-  margin-bottom: 0!important;
-}
-
-.small_vert_padding {
-  padding-top: .5rem!important;
-  padding-bottom: 0!important;
+  border-bottom: 1px solid $grey;
 }
 
 .placeholder {
@@ -101,25 +74,9 @@
   background-color: $white;
 }
 
-.no_padding,
-h1.no_padding {
-  padding: 0 !important;
-}
-
-.no_margin,
-h1.no_margin {
-  margin: 0 !important;
-}
-
 .box_shadow,
 .shadow {
   box-shadow: $shadow--smooth;
-}
-
-.roughpaper {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1280' height='2000'%3E%3Cfilter id='roughpaper' x='0%25' y='0%25' width='100%25' height='100%25'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.04' result='noise' numOctaves='5' /%3E%3CfeDiffuseLighting in='noise' lighting-color='%23ddceaf' surfaceScale='2'%3E%3CfeDistantLight azimuth='45' elevation='60' /%3E%3C/feDiffuseLighting%3E%3C/filter%3E%3Crect x='0' y='0' width='100%25' height='100%25' filter='url(%23roughpaper)' fill='none' /%3E%3C/svg%3E");
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .red {

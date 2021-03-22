@@ -1,17 +1,18 @@
 ---
-layout: default
-title: Are the Balinese Becoming ‘Hindu-Protestant’?
+title: 'Are the Balinese Becoming ‘Hindu-Protestant’?'
 date: October 2nd, 2020
+author: Jean Couteau
+publish: #notyet if draft
 description:
 image:
 ---
-With respect to the small Protestant community of Bali, the title is not a joke. Because we may be witnessing a uniquely Balinese variation of what happened five hundred years ago in Europe with the Protestant Reformation…
+_With respect to the small Protestant community of Bali, the title is not a joke. Because we may be witnessing a uniquely Balinese variation of what happened five hundred years ago in Europe with the Protestant Reformation..._
 
 What did happen five hundred years ago in Europe? Not much at first, except that some people started reading the holy books of Christianity, the Bible and the New Testament on their own.
 
 Before then, only some men of letters, mostly priests and monks, were knowledgeable enough to understand – or guess –  all that was proclaimed in these holy books.
 
-Since they had a monopoly of interpretation they could invent meanings that pleased their purposes. 
+Since they had a monopoly of interpretation they could invent meanings that pleased their purposes.
 
 By the late 15th century, the highest of all priests, the Catholic Pope, had decided that the best way to gain access to heaven was by purchasing ‘indulgences’. The more money you gave, the easier it was to go to heaven. Great, wasn’t it?
 

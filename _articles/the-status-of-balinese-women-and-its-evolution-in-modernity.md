@@ -1,13 +1,14 @@
 ---
-layout: default
-title: The Status of Balinese Women and its Evolution in Modernity
+title: 'The Status of Balinese Women and its Evolution in Modernity'
 date: October 28th, 2020
+author: Jean Couteau
+publish: #notyet if draft
 description:
 image:
 ---
-Journalist Eric Buvelot and socio-ethnologist Jean Couteau have recorded 20 hours of discussion about changes that have happened in Bali since the 70’s.
+_Journalist Eric Buvelot and socio-ethnologist Jean Couteau have recorded 20 hours of discussion about changes that have happened in Bali since the 70’s._
 
-The conversation was structured and segmented according to many different aspects of Balinese life, mostly from a socio-historical perspective, to trace all the overturning in Balinese mores since 50 years, when modernity started to shape new behaviours down to the village level.
+_The conversation was structured and segmented according to many different aspects of Balinese life, mostly from a socio-historical perspective, to trace all the overturning in Balinese mores since 50 years, when modernity started to shape new behaviours down to the village level._
 
 At the core of these changes is the birth of individuality in a communal society and the revolution it implies.
 

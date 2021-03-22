@@ -5,7 +5,7 @@ show_logo:               hide # 'show' or 'hide'
 description:             "" # max 160 digits
 keywords:
 language:                en
-version:                 0.0.1
+version:                 0.0.2
 sass:
   style:                 compressed
 
@@ -70,6 +70,10 @@ collections:
 defaults:
   - scope:
       path:              ""
-      type:              post
+      type:              "articles"
+    values:
+      layout:            "article"
+  - scope:
+      path:              ""
     values:
       layout:            default # change this to get the layout needed

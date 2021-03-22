@@ -2,10 +2,6 @@
   -webkit-box-shadow: $shadow--smooth;
   box-shadow: $shadow--smooth;
   background-color: white;
-  top: 0;
-  position: -webkit-sticky;
-  position: sticky;
-  z-index: 10;
 
   .container {
     position: relative;
@@ -112,34 +108,7 @@
     }
   }
 
-  .logo_block {
-    //a
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    margin-bottom: 0;
-    // no underline here
-    border-bottom: 0 none;
-
-    &:hover {
-      border-bottom: 0 none;
-    }
-    @include media("screen", ">bp1Width") {
-      padding-bottom: 0;
-    }
-  }
-
-  .logo {
-    //svg
-    width: 42px;
-    height: 42px;
-    margin-right: $space--small/4;
-    stroke: black;
-  }
-
   .site_title {
-    font-family: $font_family_serif;
     line-height: 1;
     margin: 0;
     padding: 0;
@@ -160,9 +129,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  // @include media("screen", ">bp1Width") {
-  //   text-align: center;
-  // }
 }
 
 .menu_header {
@@ -203,27 +169,5 @@
     @include media("screen", ">bp1Width") {
       text-align: left;
     }
-  }
-}
-
-.languages {
-  display: flex;
-  flex-grow: 2;
-  justify-content: flex-end;
-
-  @include media("screen", ">bp1Width") {
-    padding-top: 4px;
-  }
-
-  .language {
-    margin-right: 4px;
-  }
-
-  .language_button {
-    border-radius: $radius;
-    height: 42px;
-    padding: 10px;
-    border: 1px solid $grey--light;
-    background-color: $white;
   }
 }

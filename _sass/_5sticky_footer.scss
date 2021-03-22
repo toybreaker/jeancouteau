@@ -1,0 +1,15 @@
+// necessary for sticky footer
+
+.body_content_wrapper {
+  background-color: $bg_color;
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+  box-shadow: $shadow--smooth;
+}
+
+//moved to proper _9footer.scss
+// .footer {
+//   position: sticky;
+//   bottom: 0;
+// }

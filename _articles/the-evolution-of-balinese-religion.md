@@ -1,13 +1,14 @@
 ---
-layout: default
-title: The Evolution of Balinese Religion
+title: 'The Evolution of Balinese Religion'
 date: January 11th, 2021
+author: Jean Couteau
+publish: #notyet if draft
 description:
 image:
 ---
-Journalist **Eric Buvelot** and socio-ethnologist **Jean Couteau** have recorded 20 hours of discussion about changes that have happened in Bali since the 70’s.
+_Journalist **Eric Buvelot** and socio-ethnologist **Jean Couteau** have recorded 20 hours of discussion about changes that have happened in Bali since the 70’s._
 
-The conversation was structured and segmented according to many different aspects of Balinese life, mostly from a socio-historical perspective, to trace all the overturning in Balinese mores since 50 years, when modernity started to shape new behaviours.
+_The conversation was structured and segmented according to many different aspects of Balinese life, mostly from a socio-historical perspective, to trace all the overturning in Balinese mores since 50 years, when modernity started to shape new behaviours._
 
 At the core of these changes, the birth of individuality in a communal society and the revolution it implies. The resulting changes have been more significant in 50 years than the ones happening during the previous millennium.
 

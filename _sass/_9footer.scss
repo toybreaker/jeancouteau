@@ -1,9 +1,12 @@
+//sticky footer
+
 .footer {
   background-color: $grey--light;
   display: block;
   width: 100%;
-  padding-top: 8vw;
-  padding-bottom: 8vw;
+  padding: 8vw 0;
+  position: sticky;
+  bottom: 0;
 
   .container {
     box-shadow: none;
@@ -30,30 +33,6 @@
       max-width: 85%;
       margin-left: auto;
       margin-right: auto;
-    }
-  }
-
-  .section {
-    margin-left: $space--small;
-    margin-right: $space--small;
-    @media only screen and (min-width: 1150px) {
-      width: 32%;
-    }
-  }
-
-  .title {
-    font-family: $font_family_serif;
-    letter-spacing: -.5px;
-    text-transform: uppercase;
-    font-weight: 600;
-    font-size: 1.4rem;
-    padding-top: $space;
-    padding-bottom: $space/6;
-    margin-bottom: $space/6;
-    width: 100%;
-    @media only screen and (min-width: 1150px) {
-      padding-top: 0;
-      width: auto;
     }
   }
 
@@ -112,7 +91,7 @@
 .copyright {
   font-size: 12px;
   text-align: center;
-  margin-top: $space*2;
+  margin-top: $space--small;
   width: 100%;
 
   a {
@@ -120,18 +99,4 @@
       text-decoration: underline;
     }
   }
-}
-
-.footer .expandable_menu .menu_item:not(.title) {
-  border-bottom: 0 none;
-  flex-direction: row;
-  justify-content: flex-start;
-  margin-bottom: 0;
-  background-color: transparent;
-  align-items: center;
-}
-
-.footer .expandable_menu .menu_item.title {
-  background-color: transparent;
-  margin-bottom: 1rem;
 }

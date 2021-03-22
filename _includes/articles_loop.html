@@ -1,0 +1,9 @@
+<div class="container article_list">
+  {% for item in site.articles %}
+    {% unless product.publish=='notyet' %}
+
+      <a class="article_link" title="read {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a>
+
+    {% endunless %}
+  {% endfor %}
+</div>

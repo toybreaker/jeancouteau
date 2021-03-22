@@ -10,71 +10,23 @@
 
     {% include svg/defs.html %}
 
-    {% include header.html %}
+    <div class="body_content_wrapper">
 
-    {% if
-      page.slug == "accommodation" or
-      page.slug == "alloggio" %}
+      {% include header.html %}
 
-      {% include blocks/slideshow_accommodation.html %}
+      <div class="bungkus group">
 
-    {% endif %}
+        <div class="container" role="main">
 
-    <div class="bungkus group">
-
-      <div class="container" role="main">
-
-        <div class="product_text">
           {{content}}
+
         </div>
 
       </div>
 
     </div>
 
-
     {% include footer.html %}
-
-    {% if
-      page.slug == "accommodation" or
-      page.slug == "alloggio" or
-      page.slug == "restaurants" or
-      page.slug == "ristoranti" %}
-
-      <script>
-        //take care of slideshow using bg images
-        var list = document.querySelectorAll("div[data-src]");
-
-          for (var i = 0; i < list.length; i++) {
-          var url = list[i].getAttribute('data-src');
-          list[i].style.backgroundImage="url('" + url + "')";
-        }
-        //take care of images captions
-        var list = document.querySelectorAll("div[data-caption]");
-
-          for (var i = 0; i < list.length; i++) {
-          var string = list[i].getAttribute('data-caption');
-          list[i].innerHTML+= string ;
-        }
-      </script>
-
-      {% include scripts/script_slideshow.html %}
-
-      <script type="text/javascript">
-        var slideshowEl = document.querySelector('.slideshow');
-        Slideshow(slideshowEl, {
-          allowSwipe: true,
-          showIndicators: false,
-          autoplay: true,
-          // infinite loop
-          loopSlides: true,
-          transitionEffect: "slide"
-        });
-      </script>
-
-    {% endif %}
-
-    {% include scripts/script_mobile_viewport.html %}
 
     {% include scripts/script_ext_link.html %}
 
