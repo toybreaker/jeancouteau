@@ -5,7 +5,7 @@ show_logo:               hide # 'show' or 'hide'
 description:             "" # max 160 digits
 keywords:
 language:                en
-version:                 0.0.3
+version:                 0.0.4
 sass:
   style:                 compressed
 

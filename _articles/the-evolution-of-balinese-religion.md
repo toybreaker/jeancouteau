@@ -6,11 +6,13 @@ publish: #notyet if draft
 description:
 image:
 ---
-_Journalist **Eric Buvelot** and socio-ethnologist **Jean Couteau** have recorded 20 hours of discussion about changes that have happened in Bali since the 70’s._
+_**Journalist Eric Buvelot and socio-ethnologist Jean Couteau have recorded 20 hours of discussion about changes that have happened in Bali since the 70’s.**_
 
-_The conversation was structured and segmented according to many different aspects of Balinese life, mostly from a socio-historical perspective, to trace all the overturning in Balinese mores since 50 years, when modernity started to shape new behaviours._
+_**The conversation was structured and segmented according to many different aspects of Balinese life, mostly from a socio-historical perspective, to trace all the overturning in Balinese mores since 50 years, when modernity started to shape new behaviours.**_
 
-At the core of these changes, the birth of individuality in a communal society and the revolution it implies. The resulting changes have been more significant in 50 years than the ones happening during the previous millennium.
+At the core of these changes, the birth of individuality in a communal society and the revolution it implies.
+
+The resulting changes have been more significant in 50 years than the ones happening during the previous millennium.
 
 At the end of this project, a 16 chapter discussion book will be published with the purpose of measuring to which extent Bali has morphed in so little time, a work never done before, encompassing all Balinese social matters.
 

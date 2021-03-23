@@ -6,7 +6,7 @@ publish: #notyet if draft
 description:
 image:
 ---
-_A story about Sekala and Niskala, the seen and unseen world or forces, that are believed to exist in Bali. Dr. Jean Couteau brings yet another one of his Balinese stories – sometimes myth, sometimes a mystery, but always meaningful._
+_**A story about Sekala and Niskala, the seen and unseen world or forces, that are believed to exist in Bali. Dr. Jean Couteau brings yet another one of his Balinese stories – sometimes myth, sometimes a mystery, but always meaningful.**_
 
 These are the objective facts: Gobler was tired. It was night, and he wanted to get home before it was too late. The road past Punjungan was a pleasantly curvy one through the forest.
 

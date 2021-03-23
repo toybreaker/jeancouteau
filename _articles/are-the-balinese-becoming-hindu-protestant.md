@@ -6,7 +6,7 @@ publish: #notyet if draft
 description:
 image:
 ---
-_With respect to the small Protestant community of Bali, the title is not a joke. Because we may be witnessing a uniquely Balinese variation of what happened five hundred years ago in Europe with the Protestant Reformation..._
+_**With respect to the small Protestant community of Bali, the title is not a joke. Because we may be witnessing a uniquely Balinese variation of what happened five hundred years ago in Europe with the Protestant Reformation...**_
 
 What did happen five hundred years ago in Europe? Not much at first, except that some people started reading the holy books of Christianity, the Bible and the New Testament on their own.
 
