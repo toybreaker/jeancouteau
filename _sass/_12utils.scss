@@ -52,11 +52,11 @@
 }
 
 .border_top {
-  border-top: 1px solid $grey;
+  border-top: 1px solid grey;
 }
 
 .border_bottom {
-  border-bottom: 1px solid $grey;
+  border-bottom: 1px solid grey;
 }
 
 .placeholder {
@@ -71,12 +71,12 @@
 }
 
 .bg_white {
-  background-color: $white;
+  background-color: white;
 }
 
 .box_shadow,
 .shadow {
-  box-shadow: $shadow--smooth;
+  box-shadow: $shadow--short;
 }
 
 .red {

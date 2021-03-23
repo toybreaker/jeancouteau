@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cc614968-142b-4555-95c7-b5474fd9f9b8/deploy-status)](https://app.netlify.com/sites/jeancouteau/deploys)
+
 ## Warning:
 
 Despite this repo being public, it doesn't mean that all these assets are open-source and/or copyright free, or even that you may use any of them. Please, ask for permission first by contacting us: info@junglestar.org

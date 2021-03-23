@@ -1,0 +1,14 @@
+.article_list {
+  margin-top: $space;
+  margin-bottom: $space;
+}
+
+.article_link {
+  display: block;
+  margin-top: $space--small;
+  padding-bottom: $space--small;
+  border-bottom: 1px var(--border, LightGray) solid;
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+  line-height: 1.1;
+}

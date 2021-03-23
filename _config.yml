@@ -5,14 +5,14 @@ show_logo:               hide # 'show' or 'hide'
 description:             "" # max 160 digits
 keywords:
 language:                en
-version:                 0.0.2
+version:                 0.0.3
 sass:
   style:                 compressed
 
 baseurl:                 ""
 url:                     "https://jean.junglestar.com"
 qr_to_website:           show # put qr in footer
-menu:                    long_menu # 'short_menu' or 'long_menu'
+menu:                    # 'has_menu' or empty
 
 company:
   name:                  Jean Couteau

@@ -36,11 +36,11 @@ nav[aria-label="Secondary"] {
   svg {
     width: 60px;
     height: 60px;
-    fill: $grey--light;
+    fill: var(--text, white);
   }
 
   &:hover svg {
-    fill: $grey;
+    fill: var(--link, DimGray);
   }
 }
 

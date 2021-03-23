@@ -1,34 +1,31 @@
-<div class="header group ">
+<div class="header">
 
   <div class="container">
 
-    {% if site.menu == "short_menu" %}
-      <a class="logo_block group" href="/" title="home">
-        {% if site.show_logo == "show" %}
-          {% include svg/use.html id="icn--casaasia" class="logo" %}
-        {% endif %}
-        <h1 class="site_title">{{ site.title }}</h1>
-      </a>
-
-      {% include menu_short.html %}
-    {% endif %}
-
-    {% if site.menu == "long_menu" %}
     <div class="header_block">
 
-      <a class="logo_block group" href="/" title="home">
-        {% if site.show_logo == "show" %}
-          {% include svg/use.html id="icn--casaasia" class="logo" %}
-        {% endif %}
+      <a class="logo_block group" href="/" title="back to home page">
+
         <h1 class="site_title">{{ site.title }}</h1>
+
       </a>
 
-      {% include menu_long.html %}
+      <div class="toggle_button">
+        {% include svg/use.html id="icn--day" class="day" %}
+        {% include svg/use.html id="icn--night" class="night" %}
+      </div>
 
-      {% include scripts/script_menu_toggle.html %}
 
-    {% endif %}
 
+      {% if site.has_menu %}
+
+        {% include menu.html %}
+
+        {% include scripts/script_menu_toggle.html %}
+
+      {% endif %}
+
+    </div>
 
   </div>
 

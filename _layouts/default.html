@@ -2,7 +2,7 @@
 
 ---
 <!DOCTYPE html>
-<html lang="{% if page.language %}{{page.language}}{% else %}{{site.language}}{% endif %}" prefix="og: http://ogp.me/ns#">
+<html class="theme-default" lang="{% if page.language %}{{page.language}}{% else %}{{site.language}}{% endif %}" prefix="og: http://ogp.me/ns#">
 
   {% include head.html %}
 
@@ -14,19 +14,17 @@
 
       {% include header.html %}
 
-      <div class="bungkus group">
+      <div class="container" role="main">
 
-        <div class="container" role="main">
-
-          {{content}}
-
-        </div>
+        {{content}}
 
       </div>
 
     </div>
 
     {% include footer.html %}
+
+    {% include scripts/script_colormode.html %}
 
     {% include scripts/script_ext_link.html %}
 

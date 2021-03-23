@@ -1,7 +1,37 @@
+.header_block {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  svg {
+    width: 40px;
+    height: 40px;
+  }
+  .toggle_button {
+    display: flex;
+  }
+}
+
+.theme-default,
+.theme-light {
+  svg.day {
+    display: none;
+  }
+}
+
+.theme-dark {
+  svg.night {
+    display: none;
+  }
+}
+
+
 .header {
-  -webkit-box-shadow: $shadow--smooth;
-  box-shadow: $shadow--smooth;
-  background-color: white;
+  background-color: var(--bg_header, black);
+  color: var(--text_header, white);
+
+  -webkit-box-shadow: $shadow--short;
+  box-shadow: $shadow--short;
 
   .container {
     position: relative;
@@ -24,91 +54,10 @@
       padding-bottom: $space--small/2;
     }
   }
-  // //when site has a short menu
-  // .short_menu & {
-  //   align-items: center;
-  //
-  //   nav {
-  //     display: flex;
-  //     justify-content: center;
-  //   }
-  //
-  //   .logo_block {
-  //     padding-bottom: 0;
-  //   }
-  // }
-  //when site has a long menu
-  .long_menu & {
-    nav {
-      display: none;
-      @include media("screen", ">bp1Width") {
-        display: inherit;
-        padding: 0 0 10px;
-      }
-      @include media("screen", ">maxWidth") {
-        display: inherit;
-        padding: 0;
-      }
-
-      &.show {
-        display: block;
-        min-width: 100%;
-        background-color: white;
-        padding-top: $space--small;
-        @include media("screen", ">bp1Width") {
-          min-width: auto;
-          border-bottom: 0 none;
-        }
-
-        .menu_item {
-          //a
-          border-bottom: 1px solid $grey--light;
-          @include media("screen", ">bp1Width") {
-            border-bottom: 0 none;
-          }
-
-          &:last-child {
-            border: 1px solid $grey--light;
-            border-radius: $radius;
-            margin-top: -1px;
-          }
-        }
-      }
-    }
-  }
-
-  .menu_toggle_buttom {
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    width: 42px;
-    height: 42px;
-    padding: 6px;
-
-    &:focus,
-    &:hover {}
-    @include media("screen", ">bp1Width") {
-      display: none;
-    }
-
-    .close {
-      display: none;
-    }
-
-    &.menu_is_open {
-      .close {
-        display: block;
-      }
-
-      .open {
-        display: none;
-      }
-    }
-  }
 
   .site_title {
+    color: var(--header_text_color);
+    text-transform: uppercase;
     line-height: 1;
     margin: 0;
     padding: 0;
@@ -122,52 +71,119 @@
       margin-right: $space;
     }
   }
+
+
+
+  // .has_menu & {
+  //   nav {
+  //     display: none;
+  //     @include media("screen", ">bp1Width") {
+  //       display: inherit;
+  //       padding: 0 0 10px;
+  //     }
+  //     @include media("screen", ">maxWidth") {
+  //       display: inherit;
+  //       padding: 0;
+  //     }
+  //
+  //     &.show {
+  //       display: block;
+  //       min-width: 100%;
+  //       background-color: white;
+  //       padding-top: $space--small;
+  //       @include media("screen", ">bp1Width") {
+  //         min-width: auto;
+  //         border-bottom: 0 none;
+  //       }
+  //
+  //       .menu_item {
+  //         //a
+  //         border-bottom: 1px solid $grey--light;
+  //         @include media("screen", ">bp1Width") {
+  //           border-bottom: 0 none;
+  //         }
+  //
+  //         &:last-child {
+  //           border: 1px solid $grey--light;
+  //           border-radius: $radius;
+  //           margin-top: -1px;
+  //         }
+  //       }
+  //     }
+  //   }
+  // }
+  //
+  // .menu_toggle_button {
+  //   cursor: pointer;
+  //   -webkit-user-select: none;
+  //   -moz-user-select: none;
+  //   -ms-user-select: none;
+  //   user-select: none;
+  //   width: 42px;
+  //   height: 42px;
+  //   padding: 6px;
+  //
+  //   &:focus,
+  //   &:hover {}
+  //   @include media("screen", ">bp1Width") {
+  //     display: none;
+  //   }
+  //
+  //   .close {
+  //     display: none;
+  //   }
+  //
+  //   &.menu_is_open {
+  //     .close {
+  //       display: block;
+  //     }
+  //
+  //     .open {
+  //       display: none;
+  //     }
+  //   }
+  // }
+
 }
 
-.header_block {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.menu_header {
-  .menu_item {
-    //a
-    font-size: 1.1rem;
-    margin-right: $space--small/5;
-    margin-left: $space--small/5;
-    padding-right: $space--small/2;
-    padding-left: $space--small/2;
-    justify-content: center;
-
-    &:last-child {
-      border: 1px solid $grey;
-      border-radius: $radius;
-      margin-top: -1px;
-    }
-
-    &.active {
-      .long_menu & {
-        background-color: $grey--light;
-        @include media("screen", ">bp1Width") {
-          background-color: transparent;
-        }
-      }
-    }
-    @include media("screen", ">bp1Width") {
-      justify-content: flex-start;
-
-      &.active {
-        background-color: transparent;
-      }
-    }
-  }
-
-  span {
-    text-align: center;
-    @include media("screen", ">bp1Width") {
-      text-align: left;
-    }
-  }
-}
+//
+// .menu_header {
+//   .menu_item {
+//     //a
+//     font-size: 1.1rem;
+//     margin-right: $space--small/5;
+//     margin-left: $space--small/5;
+//     padding-right: $space--small/2;
+//     padding-left: $space--small/2;
+//     justify-content: center;
+//
+//     &:last-child {
+//       border: 1px solid $grey;
+//       border-radius: $radius;
+//       margin-top: -1px;
+//     }
+//
+//     &.active {
+//       .has_menu & {
+//         background-color: $grey--light;
+//         @include media("screen", ">bp1Width") {
+//           background-color: transparent;
+//         }
+//       }
+//     }
+//     @include media("screen", ">bp1Width") {
+//       justify-content: flex-start;
+//
+//       &.active {
+//         background-color: transparent;
+//       }
+//     }
+//   }
+//
+//   span {
+//     text-align: center;
+//     @include media("screen", ">bp1Width") {
+//       text-align: left;
+//     }
+//   }
+// }

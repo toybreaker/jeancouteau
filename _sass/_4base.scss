@@ -1,4 +1,5 @@
 html {
+
   scroll-behavior: smooth;
   box-sizing: border-box;
 
@@ -20,6 +21,26 @@ html {
     font-size: $base_font_size--max;
   }
 
+  //bottom overscroll looks like footer...
+  background-color: var(--extreme, white);
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+// necessary for sticky footer
+.body_content_wrapper {
+  color: var(--text, black);
+  background: var(--bg, white);
+
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+  box-shadow: $shadow--short;
 }
 
 em {
@@ -41,26 +62,11 @@ input,
 label,
 select,
 textarea {
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 
   &:focus {
     outline: -webkit-focus-ring-color auto 0;
   }
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  background-color: $bg_color;
-}
-
-// necessary for sticky footer
-.body_content_wrapper {
-  background-color: $bg_color;
-  position: relative;
-  z-index: 1;
-  min-height: 100vh;
-  box-shadow: $shadow--smooth;
 }
 
 //not needed probably
@@ -90,6 +96,13 @@ p {
   padding-bottom: $space--small;
 }
 
-blockquote p {
-  border-left: 2px solid black;
+blockquote {
+  margin-left: $space--small;
+  margin-right: $space--small;
+  p {
+    padding-top: $space--small/4;
+    padding-bottom: $space--small/4;
+    padding-left: $space--small/2;
+    border-left: 2px solid var(--text, black);
+  }
 }
