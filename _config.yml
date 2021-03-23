@@ -2,16 +2,16 @@ title:                   Jean Couteau
 subtitle:
 content_is_about:        # maybe! used in footer menu title
 show_logo:               hide # 'show' or 'hide'
-description:             "" # max 160 digits
+description:             "Historian and art critic Jean Couteau brings us stories depicting the life on Bali, sometimes real, sometimes myth, always meaningful. " # max 160 digits
 keywords:
 language:                en
-version:                 0.0.4
+version:                 0.0.6
 sass:
   style:                 compressed
 
 baseurl:                 ""
 url:                     "https://jean.junglestar.com"
-qr_to_website:           show # put qr in footer
+qr_to_website:           # put qr in footer
 menu:                    # 'has_menu' or empty
 
 company:
@@ -43,7 +43,7 @@ webmaster_verifications:
 
 
 google:
-  analytics:
+  analytics:             G-RHL5S3PJE0
 
 # Build settings
 markdown:                kramdown
