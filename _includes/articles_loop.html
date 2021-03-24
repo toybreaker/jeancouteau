@@ -2,7 +2,9 @@
   {% for item in site.articles reversed %}
     {% unless product.publish=='notyet' %}
 
-      <a class="article_link" title="read {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a>
+      <a class="article_link" title="read {{ item.title }}" href="{{ item.url }}">
+        <h2 class="article_title">{{ item.title }}</h2>
+      </a>
 
     {% endunless %}
   {% endfor %}

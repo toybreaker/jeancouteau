@@ -2,15 +2,15 @@ title:                   Jean Couteau
 subtitle:
 content_is_about:        # maybe! used in footer menu title
 show_logo:               hide # 'show' or 'hide'
-description:             "Historian and art critic Jean Couteau brings us stories depicting the life on Bali, sometimes real, sometimes myth, always meaningful. " # max 160 digits
-keywords:
+description:             "Historian and art critic Jean Couteau writes about Bali life, connecting reality and myth, delivering clean, meaningful insights to understand social dynamics." # max 160 digits
+keywords:                Bali, culture, social dynamics, understanding, reality and myth, insights, ethnology, history
 language:                en
-version:                 0.0.6
+version:                 0.0.7
 sass:
   style:                 compressed
 
 baseurl:                 ""
-url:                     "https://jean.junglestar.com"
+url:                     "https://jean.junglestar.org"
 qr_to_website:           # put qr in footer
 menu:                    # 'has_menu' or empty
 
@@ -77,3 +77,4 @@ defaults:
       path:              ""
     values:
       layout:            default # change this to get the layout needed
+      image:             /assets/p/default.jpg
