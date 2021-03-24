@@ -30,6 +30,11 @@
   background-color: var(--bg_header, black);
   color: var(--text_header, white);
 
+  // @include media("screen", ">bp1Width") {
+  //   position: fixed;
+  // }
+
+
   .container {
     position: relative;
     display: flex;
@@ -39,13 +44,13 @@
     padding: $space--small 0;
     margin: 0 $space--small/2;
 
-    @include media("screen", ">bp1Width") {
-      flex-direction: row;
-    }
-    @include media("screen", ">maxWidth") {
-      flex-direction: row;
-      align-items: flex-start;
-    }
+    // @include media("screen", ">bp1Width") {
+    //   // flex-direction: row;
+    // }
+    // @include media("screen", ">maxWidth") {
+    //   flex-direction: row;
+    //   align-items: flex-start;
+    // }
   }
 
   .site_title {
