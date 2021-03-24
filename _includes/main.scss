@@ -71,14 +71,42 @@ $base_font_size--bp1: 18px;
 $base_font_size--max: 19px;
 $base_line_height: 1.4446;
 
-$light_font_weight: 200;
-$base_font_weight: 400;
-$bold_font_weight: 600;
-$heavy_font_weight: 800;
+$font_weight--min: 300;
+$font_weight--light: 400;
+$font_weight--reg: 500;
+$font_weight--bold: 600;
+$font_weight--heavy: 700;
+$font_weight--max: 800;
 
 $heading1: 2rem; //1.65rem;
 $heading2: $heading1/8*6;
 $heading3: $heading1/8*5;
+
+// RESPONSIVE HEADINGS
+$heading1_responsive: 4vw;
+$heading1_min: 26px;
+$heading1_max: 42px;
+
+$heading2_responsive: 3.5vw;
+$heading2_min: 24px;
+$heading2_max: 38px;
+
+$heading3_responsive: 3vw;
+$heading3_min: 22px;
+$heading3_max: 34px;
+
+$heading4_responsive: 2.5vw;
+$heading4_min: 20px;
+$heading4_max: 31px;
+
+$heading5_responsive: 2.25vw;
+$heading5_min: 18px;
+$heading5_max: 29px;
+
+$heading6_responsive: 2vw;
+$heading6_min: 16px;
+$heading6_max: 25px;
+
 
 //all svg icons are square:
 $icon_size: 30px;
@@ -114,4 +142,4 @@ $mediaMinWidth: 600px;
 $mediaBp1Width: 840px;
 $mediaMaxWidth: 1260px;
 
-@import "1normalize", "2mixins", "2responsive_font", "3cmq", "4base", "5container", "6headings", "7menu", "8header", "9footer", "10links", "11articles", "11svg", "12utils", "13nav", "14titles";
+@import "1normalize", "2mixins", "2responsive_font", "3cmq", "4base", "5container", "6headings", "7menu", "8header", "9footer", "10links", "10body_wrapper", "11articles", "11svg", "12utils", "13nav", "14titles";

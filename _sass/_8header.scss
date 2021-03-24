@@ -30,9 +30,6 @@
   background-color: var(--bg_header, black);
   color: var(--text_header, white);
 
-  -webkit-box-shadow: $shadow--short;
-  box-shadow: $shadow--short;
-
   .container {
     position: relative;
     display: flex;
@@ -44,14 +41,10 @@
 
     @include media("screen", ">bp1Width") {
       flex-direction: row;
-      //align-items: center;
-      padding-bottom: 0;
     }
     @include media("screen", ">maxWidth") {
       flex-direction: row;
       align-items: flex-start;
-      padding-top: $space--small/2;
-      padding-bottom: $space--small/2;
     }
   }
 
@@ -62,8 +55,6 @@
     margin: 0;
     padding: 0;
     text-align: center;
-    font-size: 2.15rem;
-    letter-spacing: -2px;
     position: relative;
     top: 2px;
     left: 6px;
