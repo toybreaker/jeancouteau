@@ -4,13 +4,13 @@
 
   position: relative;
   z-index: 1;
-  min-height: 100vh;
 
   display: flex;
   flex-direction: column;
 
   @include media("screen", ">bp1Width") {
     margin-left: 10vw;
+    min-height: 100vh;
   }
 
 }

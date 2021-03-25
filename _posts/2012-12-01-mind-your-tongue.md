@@ -5,12 +5,13 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese Hindu gods language love magic Shiva status sexuality tourism
 ---
 Sexuality is a very sensitive topic in Indonesia, but open to so many contradictions.
 
 At the same time as someone from the People’s Representative Council was downloading hardcore pornography on their iPad caught in the act by a photographer they were able to pass a strict anti-pornography bill.
 
-In spite, or because of such hypocrisy, in the official register of Indonesia, there is very little room for anything outwardly sexual, and blunt sexual speech is out of the question. 
+In spite, or because of such hypocrisy, in the official register of Indonesia, there is very little room for anything outwardly sexual, and blunt sexual speech is out of the question.
 
 Whenever the topic is raised, it is not only with embarrassment, but also with the tendency to attribute anything overly sexual to tourism and other foreign influences, the issue is often seen as foreign influences being negative, unless properly filtered by someone local of course.
 
@@ -32,7 +33,7 @@ Thus the boys were called and still are in some places _I Butuh_ or _I Kocong_ (
 
 Those nicknames, directed at the general nudity of Balinese babies, even result in new names for the parents: _Men Butuh_ (Testicles’ Mother) or _Nang Lecir_ (the Erected One’s father).
 
-For some reason, the contemporary Balinese won t dare use these names in the city, especially when riding a bike!!
+For some reason, the contemporary Balinese won' 't dare use these names in the city, especially when riding a bike!!
 
 So, if the Balinese symbolise modern sexuality as an engine, with its vulgar phrasing, then maybe we could compare the agrarian tradition with fertility.
 

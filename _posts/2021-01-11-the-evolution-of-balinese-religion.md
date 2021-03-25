@@ -5,6 +5,14 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags:
+  - ancestors
+  - animism
+  - Balinese
+  - Hindu
+  - evolution
+  - religion
+  - ritual
 ---
 _**Journalist Eric Buvelot and socio-ethnologist Jean Couteau have recorded 20 hours of discussion about changes that have happened in Bali since the 70’s.**_
 
@@ -22,7 +30,7 @@ The English one will follow this year with a translation made by renowned Bali-b
 
 We take a look with them at how Balinese religion has evolved.
 
-**Eric Buvelot**: What is Balinese religion about ?
+**Eric Buvelot**: What is Balinese religion about?
 
 **Jean Couteau**: Today, if you ask the Balinese what is their religion, most of them will reply that they are Hindu.
 
@@ -46,7 +54,7 @@ Once there the dead are said to become dadi yeh (water) and wait to come down as
 
 The ancestors’ cult permeates the ritual life of villagers. Whenever there are temple festivals, it is the ancestors who symbolically come down for visits, and are celebrated with dance and music.
 
-It is not the Hindu gods! Hindu gods may be mentioned in old treatises and mantras, but they don’t come down for visits. Except the goddess Durga, in the exorcist rite of _Calon Arang_. 
+It is not the Hindu gods! Hindu gods may be mentioned in old treatises and mantras, but they don’t come down for visits. Except the goddess Durga, in the exorcist rite of _Calon Arang_.
 
 In short we can say that if the Hindu gods regulate the world, it is from high above.
 
@@ -100,16 +108,15 @@ In Bali, people’s religion is indeed very different from the official religiou
 
 **Jean Couteau**: The role of Nature is paramount. I already talked about the mountains: the highest mountain of Bali is a god, _Tolangkir_, the ancient name of _Gunung Agung_.
 
- In old villages, the key shrine of temples is that of the Sun-God. This impacts all aspects of life.
+In old villages, the key shrine of temples is that of the Sun-God. This impacts all aspects of life.
 
- For example, in architecture, all constructions are laid out according two main axis of symbolic purity: upstream-downstream (_ulu-hilir_) and rising sun/setting sun.
+For example, in architecture, all constructions are laid out according two main axis of symbolic purity: upstream-downstream (_ulu-hilir_) and rising sun/setting sun.
 
- Thus the family temple is located upstream-rising sun whereas the exit is located setting sun-downstream. In the villages, the pura dalem, or temple of the dead is located downstream, on the side of used waters.
+Thus the family temple is located upstream-rising-sun whereas the exit is located setting-sun-downstream. In the villages, the _pura dalem_, or temple of the dead is located downstream, on the side of used waters.
 
- Thus the sacrality of nature determines the human organisation of space. At another level, big trees are considered sacred.
+Thus the sacrality of nature determines the human organisation of space. At another level, big trees are considered sacred.
 
- They have their own living spirit and, as such they are dressed and sometimes provided with a shrine.
-Pura Pasar Agung, halfway up Mt.Agung, adorned in yellow for the upcoming ‘_Kuningan_’ festival – photo by Edward Speirs
+They have their own living spirit and, as such they are dressed and sometimes provided with a shrine.
 
 **Eric Buvelot**: This is the animistic aspect of Balinese religion...
 

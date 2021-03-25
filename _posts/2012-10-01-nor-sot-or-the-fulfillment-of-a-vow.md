@@ -5,6 +5,7 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese language love magic men Niskala ritual Sekala wayang woman
 ---
 _**The atmosphere was not a happy one in Pan Koncrong’s house. His daughter was lying in bed, feverish. An old medicine man (_balian_) had come and muttered a few magical words. But now he was gone, and neither his prayers to the gods of the mountain nor his potions were working. The child was lying helpless on the couch.**_
 
@@ -20,7 +21,6 @@ After two weeks it was again crawling on the ground of the large family’s _bal
 
 Jero Gede had bestowed health to the sick child. He had been promised a _wayang_ (puppet show) performance and would be waiting for it.
 
-
 Pan Koncrong and Men Koncrong soon forgot about their vow, (_sot or sauh, slip_) indeed, and the little girl grew normally, although she was never quite healthy.
 
 Then the mother fell ill, and in just a few days, died of a bad case of diarrhea.
@@ -35,9 +35,9 @@ He decided, thus, to consult the gods (_nunasbaos_) through a famous medium (bal
 
 Tape recorder in hand, Koncrong, his new wife in tow he had remarried in between took his turn in the crowded line, and when his time came, sat as he ought to sit, presented his offering and waited.
 
- By then the middle aged _balian_, was by then shaking, and he talked, or rather, she talked, as it was the talk of the dead mother
+By then the middle aged _balian_, was by then shaking, and he talked, or rather, she talked, as it was the talk of the dead mother
 
- >"Kenecening, dugas meme nu hidup taen mesesangi, yen nyak ceningra hayu, meme lakar ngoton inturngupah wayang. Sakewala sing katutuganbaan meme sawirehenggalang meme mati."
+>"Kenecening, dugas meme nu hidup taen mesesangi, yen nyak ceningra hayu, meme lakar ngoton inturngupah wayang. Sakewala sing katutuganbaan meme sawirehenggalang meme mati."
 
 Which translates:
 

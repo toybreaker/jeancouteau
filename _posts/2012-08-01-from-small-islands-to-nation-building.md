@@ -5,6 +5,7 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Dutch discover Indonesia god history independence
 ---
 
 _**Imagine two small islands of little importance, somewhere in the middle of the 17th century. One of them is located in the cold western lands, at the mouth of a large estuary.**_
@@ -21,7 +22,7 @@ They heard that their countries are at war, but they are reluctant enemies, sinc
 
 On the other side of the earth, in the East, the other island, smaller, is a hotbed of fevers that attracts, instead of thrifty peasants, merchant ships and reckless adventurers.
 
-There, the Dutch and English, having gotten rid of Spaniards and Papists, are now at each other’s throat, slaughtering one another in more brutal way than when dealing with local savages, Moslem potentates and even hated “papists”.
+There, the Dutch and English, having gotten rid of Spaniards and Papists, are now at each other’s throat, slaughtering one another in more brutal way than when dealing with local savages, _Moslem_ potentates and even hated “papists”.
 
 What they hunt for are riches, as the wild mercenaries of the far away London and Amsterdam’s merchants, and what they are after is the world’s most valuable commodity, more valuable than even gold: nutmeg.
 

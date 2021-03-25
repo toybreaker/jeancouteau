@@ -5,6 +5,7 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese men physical language love social touch Westerner
 ---
 The men are squatting, huddled close to one other.
 
@@ -28,7 +29,6 @@ In Balinese backyards, young children frolic freely without clothes on, playing 
 
 Growing up amidst the ﬂora and fauna and knowing the feel and scent of matter, creating offerings or statues out of these materials comes naturally in adulthood.
 
-
 Most fascinating is the way the Balinese relate bodily to each other in a social situation.
 
 They tend to huddle close, touching each other lightly on the arm, or at least keeping within “breathing distance” of one another.
@@ -38,7 +38,6 @@ This is very different indeed from the Westerners, who tend to keep each other �
 The examples of this distinction are too numerous to be given here; but the most obvious is in the young Balinese men crowding the _bale bengong_ (roadside shelters), where they rest in the crook of one another’s arms for hours on end.
 
 You may have also noticed the handholding between people who walk together through the village, even people of the same sex, or a light hand on the shoulder.
-
 
 But the foreigner will not see the cuddling and hugging between brothers and sisters in the big family bed at night.
 
@@ -64,7 +63,7 @@ When he eats, the Balinese tends to isolate himself, either by going to a place 
 
 Although he is an inherently social being, the Balinese is very reluctant to talk while he eats.
 
-Therefore he eats fast; unlike the Frenchman, who seems to talk only when he eats.
+Therefore he eats fast, unlike the Frenchman, who seems to talk only when he eats.
 
 These subtleties show a very different perspective of the Balinese and the Westerner in their very different patterns of social intercourse.
 

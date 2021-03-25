@@ -5,8 +5,17 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags:
+  - Balinese
+  - unseen
+  - seen
+  - Niskala
+  - Sekala
+  - ceremony
+  - divine
+  - demonic
 ---
-_**A story about _Sekala_ and _Niskala_, the seen and unseen world or forces, that are believed to exist in Bali. Dr. Jean Couteau brings yet another one of his Balinese stories – sometimes myth, sometimes a mystery, but always meaningful.**_
+_**A story about _Sekala_ and _Niskala_, the seen and unseen world or forces, that are believed to exist in Bali.**_
 
 These are the objective facts: Gobler was tired. It was night, and he wanted to get home before it was too late. The road past _Punjungan_ was a pleasantly curvy one through the forest.
 

@@ -5,6 +5,7 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese Islam tolerance ramadam religion rituals tourism
 ---
 **The holy month of Ramadan begins on the 22nd of July. So it is a perfect occasion to ponder about the way religious tolerance functions or mis-functions in Bali.**
 

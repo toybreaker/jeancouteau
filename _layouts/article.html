@@ -1,14 +1,31 @@
 ---
 layout: default
 ---
+
 <h2 class="article_title">
   {{ page.title }}
 </h2>
 
 <div class="author">
-  <small>Author: {{page.author}}</small>
+  <span><em><small>Author:</small></em> {{ page.author }}</span>
+</div>
+
+<div class="tags_row">
+
+  <span><em><small>Tags:</small></em></span>
+
+  <span class="tags">
+    {% for tag in page.tags %}
+      <a class="nowrap" href="/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+  </span>
+
 </div>
 
 <div class="article_content">
   {{ content }}
 </div>
+
+
+
+{% include tag_cloud.html %}

@@ -5,12 +5,13 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese beauty men love ride village woman
 ---
 _**In the fourth year of independence Darmi was a coffee stall warung keeper known for her charm and beauty. She had a smile for all from behind the counter, between the bottles and shampoos.**_
 
 _**With skin as fair as ivory and eyes as round as the moon, she was by far the prettiest of all the coffee stall keepers of the village of Bukit Simpangan, and youths from all over were lining up at her bench, ordering coffee with the hope of a wink in return.**_
 
-In those times, the bike was not yet what it was bound to become, a courtship instrument, and the village gallants would usually walk to their belles, eager for a talk and waiting for a sign. 
+In those times, the bike was not yet what it was bound to become, a courtship instrument, and the village gallants would usually walk to their belles, eager for a talk and waiting for a sign.
 
 Among Darmi's many gallants, one was particularly ugly. His name was Gencel, who was also rich, daring, and patient.
 
@@ -24,7 +25,7 @@ But whatever he did she remained stone faced.
 
 It seemed that the more he tried to charm her, the more she avoided his approaches. He had to find another way.
 
-One day, on the Wednesday of _Parangbakat week_s, it happened that Darmi needed to go to Denpasar to refurbish the stocks of her stall as she did once every three days, when it was market day at Jimbaran.
+One day, on the Wednesday of _Parangbakat weeks_, it happened that Darmi needed to go to Denpasar to refurbish the stocks of her stall as she did once every three days, when it was market day at Jimbaran.
 
 There was no motor vehicle in her village so she had to walk first to the village of Jimbaran where she would catch a bus to Denpasar and make her purchases.
 
@@ -107,7 +108,7 @@ Then Darmi’s mother approached the _bale daja_ and blurted out emotionally:
 
 Please he had heard the sound of their voices and their arguments, he had taken Darmi by the hair with his left hand, while with his right he had put a knife to her neck. So he told the girl:
 
->“Darmi, answer your mother. Answer what you want. But know at once, if you tell her you don t love me, both of us will die, right now, today. I'll slit your throat and next take my own life. Darmi could not say a word. She was sweating all over and trembling. Darmi,"
+>“Darmi, answer your mother. Answer what you want. But know at once, if you tell her you don t love me, both of us will die, right now, today. I'll slit your throat and next take my own life. Darmi could not say a word. She was sweating all over and trembling. Darmi..."
 
 her father was now shouting,
 

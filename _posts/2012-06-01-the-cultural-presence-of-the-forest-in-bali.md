@@ -5,6 +5,7 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese culture environment forest magic love wilderness
 ---
 _**When talking about Balinese culture, one usually underlines its agrarian traditions, and particularly its rice-growing tradition. Rice is indeed perpetually present in the landscape and in the rituals: everyone has seen the small _sanggah cucuk_ shrines of Balinese rice fields and the cili effigies of the goddess of rice Sri, who is worshipped in the shrines of any family temple.**_
 
@@ -36,8 +37,7 @@ The literature is full of references to hermits and teachers retiring in the mou
 
 There is even a specific text – albeit in Old-Javanese – called the _Kakawin Siwaratrikalpa_ that tells of a hunter living in and from the forest with his family.
 
-The clearing of the forest itself, together with the establishment of rice fields, which was still common not so
-long ago in Bali, is also well documented - although indirectly - by the chronicles kept by most of Balinese kinship groups.
+The clearing of the forest itself, together with the establishment of rice fields, which was still common not so long ago in Bali, is also well documented - although indirectly - by the chronicles kept by most of Balinese kinship groups.
 
 Its legacy is also physically preserved in the various caution temples of origin of the clans or sub-clans.
 
@@ -62,12 +62,11 @@ The masks of both characters are made from a swath of wood cut “alive” from 
 
 They are then carved through various ritualistic steps into their _Rangda_ or _Barong_ shape, followed by an empowering or pasupati ceremony.
 
-Interestingly, during the ceremonies when _Rangda_ intervenes,
-she is usually activated (_ngereh_) and eventually sent back to her godly abode with all her disciples – spirits, jinn and the like – through the intermediary of a papaya tree.
+Interestingly, during the ceremonies when _Rangda_ intervenes, she is usually activated (_ngereh_) and eventually sent back to her godly abode with all her disciples – spirits, jinn and the like – through the intermediary of a papaya tree.
 
 Thus, we can interpret the two characters of _Barong_ and _Rangda_ as the two opposite aspects of nature (i.e. _Barong_ as the protective power of nature, and Rangda as its threatening aspect).
 
-The centuries-long fight of the Balinese man against the forest to turn it into the civilised world of the palaces and rice fields is thus conveyed in the unending fight between Barong and Rangda, where cosmology rejoins ecology.
+The centuries-long fight of the Balinese man against the forest to turn it into the civilised world of the palaces and rice fields is thus conveyed in the unending fight between _Barong_ and _Rangda_, where cosmology rejoins ecology.
 
 But the forest is also present in another emblematic element of Balinese culture: the theatre, especially the _wayang_ (shadow puppet) theatre.
 

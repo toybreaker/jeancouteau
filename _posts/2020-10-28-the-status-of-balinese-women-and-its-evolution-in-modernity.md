@@ -5,6 +5,7 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese emancipation divorce love poligamy status women
 ---
 _**Journalist Eric Buvelot and socio-ethnologist Jean Couteau have recorded 20 hours of discussion about changes that have happened in Bali since the 70’s.**_
 
@@ -52,7 +53,7 @@ For example if a female soul helped you cross the ‘shaking bridge’ (_titi ug
 
 **Eric Buvelot**: What about the sexual aspect?
 
-**Jean Couteau**: The choice is a male affair. Women have little rights. The key word here is “to grab”, ngambil in the high-Balinese version, _ngejuk_ in low-Balinese.
+**Jean Couteau**: The choice is a male affair. Women have little rights. The key word here is “to grab”, _ngambil_ in the high-Balinese version, _ngejuk_ in low-Balinese.
 
 It is often impossible for women to refuse the sexual request. This may have changed among educated Balinese, but marriage through rape (_melegandang_), even though banned, is still probably occurring in some parts of the island.
 
@@ -116,7 +117,7 @@ Sex creates a kind of equality. By the way more and more real.
 
 During the colonial period, white women only slept with princes; then there were the artists; now even taxi drivers are doing the trick.
 
-**Eric Buvelot**: Well, one question: female homosexuality in Bali… Does it exist?
+**Eric Buvelot**: Well, one question: female homosexuality in Bali... Does it exist?
 
 **Jean Couteau**: It depends on the meaning given to the words. The practices of _mecenceng juwuk_, the women caressing one-another sexually, was long considered normal, and not as any deviation.
 

@@ -5,6 +5,7 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese Hindu magic prayers reincarnate religions tourism village
 ---
 When we talk about Balinese religion, we tend to immobilise it into intemporality, as if the kind of religious belief and practice that existed 100 years ago when the Dutch took over Bali, was still valid today.
 
@@ -60,7 +61,7 @@ They are replaced by Kawi and Sanskrit (Indian) mantras and prayers. A shift in 
 
 Rather than looking for religious inspiration in their old Balinese manuscripts, modern Balinese intellectuals increasingly borrow ideas and beliefs from Indian books.
 
-The religion of Bali is thus slowly crystallising into a more and more Indianised Hinduism – with an ever present, but also every decreasing Balinese flavour. 
+The religion of Bali is thus slowly crystallising into a more and more Indianised Hinduism – with an ever present, but also every decreasing Balinese flavour.
 
 As this religious revolution is taking place, the scope of religious identity is changing. The Balinese are usually proud of the variety of their village traditions.
 

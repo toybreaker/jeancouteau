@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h2 class="center">{{ page.tag | upcase }}</h2>
+
+<div class="tag_index_list">
+  {% for post in page.posts reversed %}
+
+    {% include article_link.html %}
+
+  {% endfor %}
+</div>

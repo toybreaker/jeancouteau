@@ -5,6 +5,7 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese beauty brahmin gods love pedanda religion 
 ---
 >“Ketut, I absolutely need your help to go to the Brahmin gria and as you know you are the only one who can help me. You know them well and you are close to them”.
 
@@ -16,7 +17,7 @@ They chatted casually amidst the heaps of fruits and jars of cookies, the omnipr
 
 This time, Dabdab was making a serious request:
 
->“I cannot even speak their language --(meaning proper high-Balinese). But for you, Somprong, it will be easy. You are one of their _sisia_ (disciples) aren’t you? Come on.”
+>“I cannot even speak their language - (meaning proper high-Balinese). But for you, Somprong, it will be easy. You are one of their _sisia_ (disciples) aren’t you? Come on.”
 
 The request was becoming a demand.
 

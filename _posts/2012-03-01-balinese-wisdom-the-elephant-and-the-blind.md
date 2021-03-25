@@ -5,6 +5,13 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags:
+  - Balinese
+  - elephant
+  - Niskala
+  - truth
+  - Sekala
+  - wisdom
 ---
 Once upon a time - or so goes the story of wise Balinese - in the old country of _Jambu Dwipa_ there lived a group of blind men.
 

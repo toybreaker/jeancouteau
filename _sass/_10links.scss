@@ -3,11 +3,15 @@
 a {
   text-decoration: none;
   border-bottom: 1px solid transparent;
-  color: var(--link_color);
+  color: var(--link, grey);
 
   &:focus,
   &:hover {
-    color: var(--link_color_hover);
+    color: var(--accent, blue);
+  }
+
+  .tags & {
+    border-bottom: 1px solid var(--link, grey);
   }
 
 }

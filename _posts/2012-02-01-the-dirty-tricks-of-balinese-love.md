@@ -5,6 +5,7 @@ author: Jean Couteau
 publish: #notyet if draft
 description:
 image:
+tags: Balinese emancipation gigolos love magic romantic tourism woman
 ---
 One of the signs of the radical changes happening in Bali is the article I am writing, which is supposed to be about Balinese love.
 
@@ -14,11 +15,11 @@ So, all the fuss being made about Valentine’s Day is one of the surest signs t
 
 They have begun to “construct” love. These western traditions are imposed on them from the outside, through modern media.
 
-Probably more young Balinese people know about St. Valentine or Romeo and Juliet than about the love story of Salya, a warrior hero from the Mahabharata and his (of course) beautiful wife Satyawati.
+Probably more young Balinese people know about St. Valentine or Romeo and Juliet than about the love story of _Salya_, a warrior hero from the Mahabharata and his (of course) beautiful wife Satyawati.
 
 However, there are still quite a few of them who know the kind of stories I am about to tell below.
 
-The best way to enter the topic is probably not to talk about Salya.
+The best way to enter the topic is probably not to talk about _Salya_.
 
 This is for a very simple reason; he swore faithfulness to his wife, something which is not so common in Bali.
 

@@ -47,6 +47,7 @@ google:
 # Build settings
 markdown:                kramdown
 plugins:
+ - jekyll/tagging
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
@@ -61,19 +62,14 @@ exclude:
 
 permalink:               /:title/ # pretty
 
-collections:
-  articles:
-    output:              true
-    permalink:           /:title/
+tag_page_layout:         post_index_tag
+tag_page_dir:            ./
+tag_permalink_style:     pretty
+ignored_tags:
 
 defaults:
   - scope:
       path:              ""
-      type:              "articles"
     values:
-      layout:            "article"
-  - scope:
-      path:              ""
-    values:
-      layout:            default # change this to get the layout needed
+      layout:            article # change this to get the layout needed
       image:             /assets/p/default.jpg
