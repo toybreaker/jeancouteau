@@ -6,6 +6,11 @@
   display: block;
   width: 100%;
   padding: 8vw 0;
+
+  @include media("screen", ">bp1Width") {
+    background-color: var(--bg, black);
+    color: var(--text, white);
+  }
   //
   // svg {
   //   width: $icon_size;

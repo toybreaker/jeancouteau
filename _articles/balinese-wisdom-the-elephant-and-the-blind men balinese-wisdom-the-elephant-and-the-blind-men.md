@@ -6,7 +6,7 @@ publish: #notyet if draft
 description:
 image:
 ---
-Once upon a time - or so goes the story of wise Balinese -in the old country of _Jambu Dwipa_ there lived a group of blind men.
+Once upon a time - or so goes the story of wise Balinese - in the old country of _Jambu Dwipa_ there lived a group of blind men.
 
 Although they could not see, they had come to know life and the world through their sense of touch and by conversing with one another.
 
@@ -56,12 +56,11 @@ This skepticism illustrates what can be called a “theology of the relative”,
 
 To the Balinese, what matters is not ﬁnding Truth itself, which is always “unknowable”, but the endeavor of man – and hence, of religion – in the direction of Truth.
 
-It is one’s deeds, one’s karma (actions), which determine one’s future in the transmigration of the soul.
+It is one’s deeds, one’s _karma_ (actions), which determine one’s future in the transmigration of the soul.
 
-In other words, ethics matter more than theological credo.
-Relativity pervades everything.
+In other words, ethics matter more than theological credo. Relativity pervades everything.
 
-The Balinese say that religion must evolve according to three principles: desa, which is the place; kala, the time and patra, the circumstances.
+The Balinese say that religion must evolve according to three principles: _desa_, which is the place; _kala_, the time and _patra_, the circumstances.
 
 No one faith is completely “correct”, so we should not try to convert other people to our religious views.
 
@@ -73,11 +72,11 @@ The concept of God follows a similar mold.
 
 All attempts at encompassing Truth, and, thus, God, within a rigid set of principles are as illusory as it is for the blind men to “know” the elephant as a whole.
 
-What we know of the “godly” is only its manifestations, and there are as many of them as there are aspects to tangible (sekala) and intangible (niskala) reality. God pervades everything.
+What we know of the “godly” is only its manifestations, and there are as many of them as there are aspects to tangible (_**Sekala**_) and intangible (_**Niskala**_) reality. God pervades everything.
 
 He changes names all the time according to the principle of incarnation.
 
-Some say he dwells in temples (melinggih) others say he is much closer to our hearts.
+Some say he dwells in temples (_melinggih_) others say he is much closer to our hearts.
 
 The gods, thus, are one God.
 

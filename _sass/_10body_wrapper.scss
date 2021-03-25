@@ -9,4 +9,8 @@
   display: flex;
   flex-direction: column;
 
+  @include media("screen", ">bp1Width") {
+    margin-left: 10vw;
+  }
+
 }

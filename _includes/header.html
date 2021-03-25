@@ -1,31 +1,27 @@
 <div class="header">
 
-  <div class="container">
+  <div class="header_block">
 
-    <div class="header_block">
+    <a class="logo_block group" href="/" title="back to home page">
 
-      <a class="logo_block group" href="/" title="back to home page">
+      <h1 class="site_title">{{ site.title }}</h1>
 
-        <h1 class="site_title">{{ site.title }}</h1>
+    </a>
 
-      </a>
-
-      <div class="toggle_button">
-        {% include svg/use.html id="icn--day" class="day" %}
-        {% include svg/use.html id="icn--night" class="night" %}
-      </div>
-
-
-
-      {% if site.has_menu %}
-
-        {% include menu.html %}
-
-        {% include scripts/script_menu_toggle.html %}
-
-      {% endif %}
-
+    <div class="toggle_button">
+      {% include svg/use.html id="icn--day" class="day" %}
+      {% include svg/use.html id="icn--night" class="night" %}
     </div>
+
+
+
+    {% if site.has_menu %}
+
+      {% include menu.html %}
+
+      {% include scripts/script_menu_toggle.html %}
+
+    {% endif %}
 
   </div>
 
