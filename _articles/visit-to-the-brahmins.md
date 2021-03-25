@@ -6,12 +6,11 @@ publish: #notyet if draft
 description:
 image:
 ---
->“Ketut, I absolutely need your help to go to the Brahmin _gria_ (mansion) and as you know you to are the only one who can help me. You know them well and are close to them”.
+>“Ketut, I absolutely need your help to go to the Brahmin gria and as you know you are the only one who can help me. You know them well and you are close to them”.
 
 Somprong and his friend, Dabdab, were sitting and talking on the single bench of Mrs. Somprong’s tea stall.
 
-They used to sit there and talk everyday of the yellowing of
-the rice or of their daily duties to the gods.
+They used to sit there and talk everyday of the yellowing of the rice or of their daily duties to the gods.
 
 They chatted casually amidst the heaps of fruits and jars of cookies, the omnipresent smoke of incense wafting on the air.
 
@@ -25,7 +24,7 @@ There was no way Somprong could avoid it, going to the Brahmins.
 
 So without another word, he stood and went to the back of the tea stall and picked up a hanging batik tapestry and a shawl, wrapped them around his waist and came back out, smiling: He was now properly dressed, as one ought to be when visiting the _peguruan_ (teacher’s lodging).
 
-They soon reached the entrance of the gria.
+They soon reached the entrance of the _gria_ (mansion).
 
 There was no outward mark to differentiate it from the other houses in the village, except the two statues of guardians in front of the entrance and the relief of a swan above the lintel of the gate.
 
@@ -39,7 +38,7 @@ these were the words his father had used, addressing the high priest.
 
 >”Life has given my wife and I more sons than we can afford. My father and his father before him, as you know, have been the faithful dependants (_braya_) of your holy mansion. This is why I come to you with this young child of mine and entrust him to you, so that he learns from your house all the holy teachings and the good things in life.”
 
-In those times, the _gria_ was still rich, and the request had been welcome.
+In those times, the _gria_ (mansion) was still rich, and the request had been welcome.
 
 Somprong had been accepted to live with the Brahmins.
 
@@ -97,11 +96,11 @@ he said,
 
 The High-Balinese words, which would have been awkward coming from the mouth of an ordinary villager, sounded natural when Somprong uttered them.
 
-Somprong’s companion sensed it, too; and he gaped in admiration at the choice of the words, words that are used only when addressing a Brahmin.
+Somprong’s companion sensed it, too, and he gaped in admiration at the choice of the words, words that are used only when addressing a _Brahmin_.
 
 >“What do you want from him?”
 
-asked Dayu Raka, adding,
+asked Dayu Raka, adding:
 
 >“I almost did not recognise you, Somprong. Do you come now only when you need us? If you want to see Ratu Pedanda he should be in the _bale dangin_ (eastern pavilion).”
 

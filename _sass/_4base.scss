@@ -89,9 +89,12 @@ blockquote {
   margin-left: $space--small;
   margin-right: $space--small;
   p {
+    font-size: 120%;
     padding-top: $space--small/4;
     padding-bottom: $space--small/4;
     padding-left: $space--small/2;
+    padding-right: $space;
     border-left: 2px solid var(--text, black);
+    max-width: 540px!important;
   }
 }

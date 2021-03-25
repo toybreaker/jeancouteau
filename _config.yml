@@ -5,7 +5,7 @@ show_logo:               hide # 'show' or 'hide'
 description:             "Historian, anthropologist, art critic Jean Couteau writes about Bali life, connecting reality and myth, delivering clean, meaningful insights to understand social dynamics." # max 160 digits
 keywords:                Bali, culture, social dynamics, understanding, reality and myth, insights, ethnology, history, anthropology
 language:                en
-version:                 0.1.2
+version:                 0.1.3
 sass:
   style:                 compressed
 
