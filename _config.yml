@@ -2,8 +2,8 @@ title:                   Jean&nbsp;&nbsp;Couteau
 subtitle:
 content_is_about:        # maybe! used in footer menu title
 show_logo:               hide # 'show' or 'hide'
-description:             "Historian and art critic Jean Couteau writes about Bali life, connecting reality and myth, delivering clean, meaningful insights to understand social dynamics." # max 160 digits
-keywords:                Bali, culture, social dynamics, understanding, reality and myth, insights, ethnology, history
+description:             "Historian, anthropologist, art critic Jean Couteau writes about Bali life, connecting reality and myth, delivering clean, meaningful insights to understand social dynamics." # max 160 digits
+keywords:                Bali, culture, social dynamics, understanding, reality and myth, insights, ethnology, history, anthropology
 language:                en
 version:                 0.1.0
 sass:
@@ -18,7 +18,7 @@ company:
   name:                  Jean Couteau
   legal_name:            Jean Couteau #overrides 'company.name' in footer
   country:               Indonesia
-
+  twitter:               @jcouteaubali
 
 #SEO https://jekyll.github.io/jekyll-seo-tag/usage/
 #
