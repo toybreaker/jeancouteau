@@ -26,7 +26,7 @@ Thus tolerance is indeed part of the teachings of the two religions.
 
 It is also rooted in the island’s history: in the pre-colonial period (before 1906-1908), most Balinese kingdoms were defended by Muslim mercenaries, whose descendants now live in kampongs (hamlets) usually located in the immediate vicinity of the royal palaces.
 
-So it is not rare in Bali to ﬁnd Muslim communities linked by tradition to noble families and associated with the religious paraphernalia of some of their ceremonies.
+So it is not rare in Bali to find Muslim communities linked by tradition to noble families and associated with the religious paraphernalia of some of their ceremonies.
 
 Inter-marriages also took place without being a big issue between the two groups.
 
@@ -46,7 +46,7 @@ Why? Because some important, cumulative changes are taking place, which, if not 
 
 The main change is in demographics. Non-Balinese migrant workers are settling in Bali in ever-rising numbers.
 
-Not only do they give job competition an ethno-religious hue, but also more seriously, some of them bring along a narrow interpretation of the holy texts, that tend to reinforce socio-religious identity and thus increasingly separate Muslims from their Balinese brothers.
+Not only do they give job competition an ethno - religious hue, but also more seriously, some of them bring along a narrow interpretation of the holy texts, that tend to reinforce socio-religious identity and thus increasingly separate Muslims from their Balinese brothers.
 
 For example, it was relatively common until twenty years ago to perform Balinese dances on such occasions as Muslim circumcisions and weddings.
 
@@ -54,7 +54,7 @@ Upon advice from orthodox clerics, it is now considered improper, as Balinese da
 
 Similarly, some Islamo-Balinese youths educated in Javanese religious institutions come back to Bali upon completion of their studies, convinced that the genuine followers of the prophet should refrain from participating in Balinese religious rites.
 
-As for interreligious marriages, they are becoming more rare because they are deemed contrary to the religious precepts. The main culprit of this new situation is the pervading inﬂuence of Wahabism in Indonesia.
+As for inter-religious marriages, they are becoming more rare because they are deemed contrary to the religious precepts. The main culprit of this new situation is the pervading influence of _Wahhabism_ in Indonesia.
 
 Therefore, the traditional advocacy for Muslim tolerance rooted in the sentence “Your religion is your religion, my religion is my religion,” is now given a narrower meaning.
 
@@ -62,19 +62,19 @@ Instead increasingly see themselves – and are constructed by others – as bel
 
 Previously supportively intermingled, they are now separating because Hindu-hood and Islam-hood are construed as identity markers more important than their heretofore shared Balinese-hood.
 
-The Hindu-Balinese do experience their own revivalism and crystallization of ethno-religious identity, rooted not so much in a reinterpretation of the holy Hindu scriptures than as a reaction against socio-economic and cultural changes, topped by a tourism-induced idealization of “tradition”.
+The Hindu-Balinese do experience their own revivalism and crystallisation of ethno-religious identity, rooted not so much in a reinterpretation of the holy Hindu scriptures than as a reaction against socio-economic and cultural changes, topped by a tourism-induced idealisation of “tradition”.
 
 Ethno-centrism is becoming increasingly more visible, and little is being done to counter it.
 
-What took place in the writer’s village Abian Gombal a couple of years ago illustrates the complexity of the issue. The village has a small Muslim minority, most of whose members work at a local agricultural company.
+What took place in the writer’s village _Abian Gombal_ a couple of years ago illustrates the complexity of the issue. The village has a small Muslim minority, most of whose members work at a local agricultural company.
 
 They had a small, unregistered prayer room within the premises of the factory.
 
 One day, while bathing there, the young child of one of the workers was swept away by non-Balinese outsider, there was nothing extraordinary in this handling.
 
-But to Hindu and Muslim revivalists alike, it provided the ground for a conﬂict: to the local villagers, the fact of keeping a corpse in other than a place attributed to the rites of death (cemetery and family compound) brought impurity to the village – which could in turn cause other woes like accidents or illness.
+But to Hindu and Muslim revivalists alike, it provided the ground for a conflict: to the local villagers, the fact of keeping a corpse in other than a place attributed to the rites of death (cemetery and family compound) brought impurity to the village – which could in turn cause other woes like accidents or illness.
 
-Therefore the village had to be cleansed by a Rsi Gana exorcism. But who should pay for it? Apparently the locals, those who had, albeit unwittingly, caused this “impurity” to occur: the Muslims.
+Therefore the village had to be cleansed by a _Rsi Gana_ exorcism. But who should pay for it? Apparently the locals, those who had, albeit unwittingly, caused this “impurity” to occur: the Muslims.
 
 The Muslims, however, would not agree to pay, because it would violate the Sharia prohibition to participate in non-Muslim rites.
 
@@ -82,7 +82,7 @@ It was at this point that real tensions could have been created. But luckily, th
 
 It may have been discriminative, but it was also a way out.
 
-This example shows that tolerance is not a simple matter of good will. It has to be properly “managed” at the grassroot level.
+This example shows that tolerance is not a simple matter of good will. It has to be properly “managed” at the grassroots level.
 
 In the end, the future of tolerance in Indonesia depends not only on lofty abstract principles, but also on our awareness of the social issues that arise as the result of economic and cultural transformations.
 

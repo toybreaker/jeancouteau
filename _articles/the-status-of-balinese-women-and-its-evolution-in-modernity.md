@@ -22,29 +22,29 @@ The French edition is due at the end of 2020 at Editions GOPE. The English one w
 
 **Jean Couteau**: In deep Bali tradition, love reverberates cosmic relationships. Thus, in classical paintings, gods appear often alongside humans, in their own love scenes, for example Sang Hyang Ratih together with Sang Hyang Kamajaya.
 
-Dewi Ratih is the Moon Goddess, whereas Kamajaya is the god of Love (from Kama, sperm).
+_Dewi Ratih_ is the Moon Goddess, whereas _Kamajaya_ is the god of Love (from Kama, sperm).
 
-There is a famous myth, according to which Kamajaya was punished and burned to death by the God Siwa.
+There is a famous myth, according to which _Kamajaya_ was punished and burned to death by the _God Siwa_.
 
-Ratih asked Siwa to follow her beloved and was thus reduced to ash herself. Ever since, love spreads as ash throughout the world.
+_Ratih_ asked _Siwa_ to follow her beloved and was thus reduced to ash herself. Ever since, love spreads as ash throughout the world.
 
 It is divine power that activates human love. God is always present.
 
-As for sexual intercourse, it is said to be made possible through the intervention of Sang Hyang Deleng, “the god of the love stare”.
+As for sexual intercourse, it is said to be made possible through the intervention of _Sang Hyang Deleng_, “the god of the love stare”.
 
-This is roughly translated as the encounter of the two Kamas, white (sperm of man) and red (ovule of woman).
+This is roughly translated as the encounter of the two _Kamas_, white (sperm of man) and red (ovule of woman).
 
 **Eric Buvelot**: It is love at first sight…
 
 **Jean Couteau**: Yes, it is forces from ‘out there’ that determine love. And it starts well before the current incarnation.
 
-Falling in love means jatuh karma: obeying to one’s karma, to obey the determination of previous incarnations.
+Falling in love means _jatuh karma_: obeying to one’s karma, to obey the determination of previous incarnations.
 
-When incarnating, meaning being born, one comes right out from the tegal penangsaran, the Balinese “field of sorrow” or purgatory, and into this world.
+When incarnating, meaning being born, one comes right out from the _tegal penangsaran_, the Balinese “field of sorrow” or purgatory, and into this world.
 
 Sometimes, one has to pay a “debt” of love, a debt incurred during the previous incarnation or even during one’s sojourn within the field of sorrow.
 
-For example if a female soul helped you cross the ‘shaking bridge’ (titi ugal-agil) and thus prevented you from falling into the flames of hell, you may well have a debt toward the corresponding female in real life.
+For example if a female soul helped you cross the ‘shaking bridge’ (_titi ugal-agil_) and thus prevented you from falling into the flames of hell, you may well have a debt toward the corresponding female in real life.
 
 **Eric Buvelot**: Is this really that far from the Western concept of love?
 
@@ -52,19 +52,19 @@ For example if a female soul helped you cross the ‘shaking bridge’ (titi uga
 
 **Eric Buvelot**: What about the sexual aspect?
 
-**Jean Couteau**: The choice is a male affair. Women have little rights. The key word here is “to grab”, ngambil in the high-Balinese version, ngejuk in low-Balinese.
+**Jean Couteau**: The choice is a male affair. Women have little rights. The key word here is “to grab”, ngambil in the high-Balinese version, _ngejuk_ in low-Balinese.
 
-It is often impossible for women to refuse the sexual request. This may have changed among educated Balinese, but marriage through rape (melegandang), even though banned, is still probably occurring in some parts of the island.
+It is often impossible for women to refuse the sexual request. This may have changed among educated Balinese, but marriage through rape (_melegandang_), even though banned, is still probably occurring in some parts of the island.
 
 **Eric Buvelot**: So all of this has changed in the last 50 years? Then, where did young people meet?
 
-**Jean Couteau**: During drama gong, wayang or topeng drama performances. Balinese society was still predominantly rural, apart from a small educated elite.
+**Jean Couteau**: During drama gong, _wayang_ or _topeng_ drama performances. Balinese society was still predominantly rural, apart from a small educated elite.
 
 There were only 150,000 inhabitants in Denpasar, compared to a million today.
 
 There was not partying in Kuta, where only a few hundred hippies lived. Boys and girls met during the night shows accompanying ceremonies.
 
-Most often around an improvised stage (kalangan) lit by an acetylene lamp.
+Most often around an improvised stage (_kalangan_) lit by an acetylene lamp.
 
 The setting was, typically: on the first row, the children, seated cross-legged; behind them the girls, standing; and behind the girls, the youths, pushed around by the impatient crowd.
 
@@ -78,7 +78,7 @@ This is, show within the show, where whispers of love and promises were exchange
 
 **Jean Couteau**: In modern discourse, polygamy is frowned upon, but in the reality of ordinary people’s life, it is perfectly acceptable...
 
-Let’s recall here that, in pre-colonial times, the king of Ubud, had something like 130 women. The women palace attendants, the penyeroan, were considered to be sexually available.
+Let’s recall here that, in pre-colonial times, the king of Ubud, had something like 130 women. The women palace attendants, the _penyeroan_, were considered to be sexually available.
 
 Today, according to the law, it is not allowed, unless the first wife gives her consent.
 
@@ -90,7 +90,7 @@ For her, the divorce proceedings entails two ceremonies: one that follows the di
 
 This is emotionally very demanding, so many women prefer staying with their unfaithful husband, which implicitly authorises the latter to take a new wife.
 
-It is considered unwelcome, but a smart guy can easily set up a small wedding ceremony in honour of the lower forces, which is called byakala.
+It is considered unwelcome, but a smart guy can easily set up a small wedding ceremony in honour of the lower forces, which is called _byakala_.
 
 And the trick is done. The fellow can have one or two more or less camouflaged  families.
 
@@ -118,7 +118,7 @@ During the colonial period, white women only slept with princes; then there were
 
 **Eric Buvelot**: Well, one question: female homosexuality in Bali… Does it exist?
 
-**Jean Couteau**: It depends on the meaning given to the words. The practices of mecenceng juwuk, the women caressing one-another sexually, was long considered normal, and not as any deviation.
+**Jean Couteau**: It depends on the meaning given to the words. The practices of _mecenceng juwuk_, the women caressing one-another sexually, was long considered normal, and not as any deviation.
 
 **Eric Buvelot**: Is sexual liberation happening in Bali?
 
@@ -146,6 +146,6 @@ Except for those who benefited from a wider geopolitical environment, essentiall
 
 **Jean Couteau**: The confusion between philosophical norm and social reality.
 
-When some intellectuals tell you that since there is symbolic complementariness between Purusa/Male/Spirit and Pradana/Female/Matter, there is also equality between men and women.
+When some intellectuals tell you that since there is symbolic complementariness between _Purusa / Male / Spirit_ and _Pradana / Female / Matter_, there is also equality between men and women.
 
-They confuse  philosophical norm and social reality and thus cover a reactionary practice with a progressive affirmation. Despite all the demands for change, the purusa always come first.
+They confuse  philosophical norm and social reality and thus cover a reactionary practice with a progressive affirmation. Despite all the demands for change, the _purusa_ always come first.

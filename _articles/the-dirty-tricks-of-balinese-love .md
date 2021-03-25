@@ -46,7 +46,7 @@ Meanwhile, the man is free, because men’s faithfulness is not to be expected.
 
 If his wife is jealous, she is ‘wrong’: she did not make him the children he expected – in particular the male heir who is going to look after his dead soul in the family shrine.
 
-Or, more simply, she did not properly ‘service’ his sexual needs (sing bisa ngayahin kurenanne).
+Or, more simply, she did not properly ‘service’ his sexual needs (_sing bisa ngayahin kurenanne_).
 
 No matter what we do, we just never do enough, ladies!
 
@@ -72,13 +72,13 @@ But not in this case.
 
 After several visits to a few well-selected mediums, with incense and ‘ancestors’ coming down through the medium’s mouth, it was ‘discovered’ that Ketut’s wife was actually a witch.
 
-She had caused her husband’s new.born child’s death by cutting the umbilical cord.
+She had caused her husband’s newborn child’s death by cutting the umbilical cord.
 
 Beyond that, it was later revealed, she had also caused all the mishaps that had hit the family in recent years.
 
 Of course! It is no surprise, I must say, that Ketut never goes back home anymore: he is the real victim.
 
-Poor boy! As for the wife, having become a leak through the sacriﬁce of a child –because of course she went to the temple of death (_Pura Dalem_) to perform the right rituals to Durga the destroyer—she is now ﬁnished.
+Poor boy! As for the wife, having become a leak through the sacrifice of a child – because of course she went to the temple of death (_Pura Dalem_) to perform the right rituals to Durga the destroyer—she is now finished.
 
 She has become a social outcast in her village. But does she deserve it? Ah! Women!
 
@@ -100,11 +100,11 @@ He looks for a stronger sorcerer.
 
 He forces his daughter to participate in a ceremony with wafting incense, the bewildered girl sitting on the ground in a state of confusion.
 
-It soon appears obvious, to the officiating balian, and most importantly, to the father, that the girl, his daughter, is indeed possessed.
+It soon appears obvious, to the officiating _balian_, and most importantly, to the father, that the girl, his daughter, is indeed possessed.
 
-The more the balian calls up his reserve of holy formulas – some of them borrowed from Islam — the more confused the girl becomes.
+The more the _balian_ calls up his reserve of holy formulas – some of them borrowed from Islam — the more confused the girl becomes.
 
-Then she suddenly quiets down. He gives her a gegemet (a charm with holy syllables), which she usually slips underneath her bra.
+Then she suddenly quiets down. He gives her a _gegemet_ (a charm with holy syllables), which she usually slips underneath her bra.
 
 She is now safe: no counter-charm, no magic ring can have power over her now.
 
@@ -120,6 +120,6 @@ They were made to suit a market niche of New Age consumers of eastern wisdom. Re
 
 Last but not least, the main issue is indeed the emancipation of women.
 
-Aggressive feminism won’t do much in the short term, nor will the over-idealization of Bali: they may well increase the ethno-centrism of Balinese males and thus further isolate Balinese women.
+Aggressive feminism won’t do much in the short term, nor will the over-idealisation of Bali: they may well increase the ethnocentrism of Balinese males and thus further isolate Balinese women.
 
 As ever, the problem is indeed with men.

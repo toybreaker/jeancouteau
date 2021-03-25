@@ -10,13 +10,13 @@ _**In the fourth year of independence Darmi was a coffee stall warung keeper kno
 
 _**With skin as fair as ivory and eyes as round as the moon, she was by far the prettiest of all the coffee stall keepers of the village of Bukit Simpangan, and youths from all over were lining up at her bench, ordering coffee with the hope of a wink in return.**_
 
-In those times, the bike was not yet what it was bound to become, a courtship instrument, and the village gallants would usually walk to their belles, eager for a talk and waiting for a sign.
+In those times, the bike was not yet what it was bound to become, a courtship instrument, and the village gallants would usually walk to their belles, eager for a talk and waiting for a sign. 
 
 Among Darmi's many gallants, one was particularly ugly. His name was Gencel, who was also rich, daring, and patient.
 
- Above all, he had a bike. Gencel had been wearing out his pants on Darmi's bench for well over two years, and still there was no wink for him.
+Above all, he had a bike. Gencel had been wearing out his pants on Darmi's bench for well over two years, and still there was no wink for him.
 
- Darmi had others to smile at.
+Darmi had others to smile at.
 
 Gencel tried all the ways of the village gallants. One day, he would act macho, the following day show off his money and flaunt it.
 
@@ -24,11 +24,11 @@ But whatever he did she remained stone faced.
 
 It seemed that the more he tried to charm her, the more she avoided his approaches. He had to find another way.
 
-One day, on the Wednesday of Parangbakat week, it happened that Darmi needed to go to Denpasar to refurbish the stocks of her stall as she did once every three days, when it was market day at Jimbaran.
+One day, on the Wednesday of _Parangbakat week_s, it happened that Darmi needed to go to Denpasar to refurbish the stocks of her stall as she did once every three days, when it was market day at Jimbaran.
 
 There was no motor vehicle in her village so she had to walk first to the village of Jimbaran where she would catch a bus to Denpasar and make her purchases.
 
-But when she arrived at the hamlet of Tegeh Sari, a bike pulled up next to her.
+But when she arrived at the hamlet of _Tegeh Sari_, a bike pulled up next to her.
 
 It was Gencel, with a big smile on his face:
 
@@ -68,14 +68,14 @@ she asked anxiously while pounding helplessly on Gencel’s broad shoulders.
 
 And he rode on, taking the road to Denpasar, bent over his engine, sweat pouring all over his body, partly from the effort, and partly from fear.
 
-On the back, pounding and shrieking, but not daring to jump, there was the pretty Darmi, the ‘village ﬂower of Bukit Simpangan, on a helpless ride with the ugly Gencel.
+On the back, pounding and shrieking, but not daring to jump, there was the pretty Darmi, the ‘village flower of _Bukit Simpangan_', on a helpless ride with the ugly Gencel.
 
-Suddenly, while they were riding across the village of Abian Gombal,
+Suddenly, while they were riding across the village of _Abian Gombal_,
 
 Gencel made a turn, which took them into a Balinese courtyard.
 
 
-He went straight to the balai daja (northern pavilion) and, pulling the shaken Darmi by the arm, he took her inside.
+He went straight to the _balai daja_ (northern pavilion) and, pulling the shaken Darmi by the arm, he took her inside.
 
 Ten minutes later, unheeding the It was not long, though, before the owner of the house showed up, an old friend of Gencel who had lent him the room for his prowess and her cries.
 
@@ -91,9 +91,9 @@ he replied.
 
 Behind him, the girl was sprawled on the bed in shock. Pan Mimis did not know, or did not care to know.
 
-He took the bike and went to Jimbaran. And time thus passed, a time ﬁlled with love and violence.
+He took the bike and went to Jimbaran. And time thus passed, a time filled with love and violence.
 
-At four p.m. some movement was heard in the courtyard. Gencel s father and mother had come, accompanied by Darmi’s parents and the banjar (neighborhood) customary offcials.
+At four p.m. some movement was heard in the courtyard. Gencel s father and mother had come, accompanied by Darmi’s parents and the _banjar_ (neighbourhood) customary officials.
 
 They were arguing loudly: Let me get inside and see if she really loves him or has been eloped by force,”
 
@@ -101,7 +101,7 @@ Darmi’s father was calling out insistently. But Pan Mimis, the owner of the pl
 
 >“You are in my house. I won't prevent you from talking, but I won't allow you to enter into that building of mine. Settle your business from the outside."
 
-Then Darmi’s mother approached the bale daja and blurted out emotionally:
+Then Darmi’s mother approached the _bale daja_ and blurted out emotionally:
 
 >"Hey, Darmi, I am your mother, tell me if you eloped from your own will or if that Gencel has kidnapped you by force."
 
@@ -111,11 +111,11 @@ Please he had heard the sound of their voices and their arguments, he had taken 
 
 her father was now shouting,
 
->"answer you mother. We came here with the _klian_ (headman) so as to settle the matter properly.”
+>"Answer you mother. We came here with the _klian_ (headman) so as to settle the matter properly.”
 
-Meanwhile, the blade of Gencel s knife was cold on the neck of the girl, and Gencel was now murmuring in a threatening tone:
+Meanwhile, the blade of Gencel's knife was cold on the neck of the girl, and Gencel was now murmuring in a threatening tone:
 
->Let s ﬁnish it, Darmi. Let's marry or let's die.”
+>Let s finish it, Darmi. Let's marry or let's die.”
 
 Then, hiding her cries, Darmi spoke:
 
@@ -123,7 +123,7 @@ Then, hiding her cries, Darmi spoke:
 
 So they left. When Gencel told me the story, Darmi was a few meters away, busy in the kitchen.
 
-She has ﬁve children and twelve grandchildren.
+She has five children and twelve grandchildren.
 
 She carries a sad smile on her face.
 

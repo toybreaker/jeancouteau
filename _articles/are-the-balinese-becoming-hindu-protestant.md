@@ -30,29 +30,29 @@ There ensued wars and pogroms. After much blood had been spilled over variations
 
 Now, how does this relate to Bali? The situation is indeed a little different. Let’s examine the Balinese difference.
 
-Bali has had a complete caste system since the 16th century. These castes have long and highly respected lineages of _brahmanas_ (priests), of _satria_ (warriors), and of commoners.
+Bali has had a complete caste system since the 16th century. These castes have long and highly respected lineages of _Brahmanas_ (priests), of _Satria_ (warriors), and of commoners.
 
-The satria lineages all go back to the takeover of Bali by invaders from Majapahit Java in 1343.
+The Satria lineages all go back to the takeover of Bali by invaders from Majapahit Java in 1343.
 
-The origin of the _brahmanas_ is more recent. According to tradition, it dates back to the arrival on Bali in the 16th century of two high priests, eager to escape the quickly Islamising Java.
+The origin of the _Brahmanas_ is more recent. According to tradition, it dates back to the arrival on Bali in the 16th century of two high priests, eager to escape the quickly Islamising Java.
 
-One was a _Siwa_ high-priest, **Dang Hyang Nirartha**, the other a _Buda_(1) high-priest, **Dang Hyang Astapaka**.
+One was a _Siwa_ high-priest, **Dang Hyang Nirartha**, the other a _Buda_(2) high-priest, **Dang Hyang Astapaka**.
 
 Once in Bali they won the support of **King Waturenggong** and commenced religious reforms that ensured their preeminence over indigenous priests.
 
-They also established their own lineages – _Siwa_ and _Buda_ — which begot all the priests today known as _pedandas_.
+They also established their own lineages – _Siwa_ and _Buda_ — which begot all the priests today known as _Pedandas_.
 
 These _Siwa_ and _Buda_ priests still officiate (_puput_ = finalise) at all the great rituals, uttering the mantras that produce the holiest of the holy waters (_tirta_).
 
-Their pedanda position warrants them the highest prestige. They live in large _gria_ mansions, amid an array of mostly ‘commoner’ _sisia_ disciples, thus enjoying a power that almost equates to that of the ruling princes.
+Their _Pedanda_ position warrants them the highest prestige. They live in large _gria_ mansions, amid an array of mostly ‘commoner’ _Sisia_ disciples, thus enjoying a power that almost equates to that of the ruling princes.
 
-All the kings of the past indeed had their court _pedanda_, whose advice and mantras added an aura of sacredness to their politics.
+All the kings of the past indeed had their court _Pedanda_, whose advice and mantras added an aura of sacredness to their politics.
 
-Yet, the beliefs and teachings of those _pedandas_ were not only weirdly structured, mixing the Balinese ancestors’ cult with Indian myths and cosmological speculations, but they were also purposely esoteric, which kept them out of reach of ordinary ‘_sudra_’ commoners.
+Yet, the beliefs and teachings of those _Pedandas_ were not only weirdly structured, mixing the Balinese ancestors’ cult with Indian myths and cosmological speculations, but they were also purposely esoteric, which kept them out of reach of ordinary ‘_Sudra_’ commoners.
 
 Then came colonisation, bringing the collapse of the old political order and domination by non-Balinese, but also bringing education. With education came new ideas: progress, democracy, and liberty.
 
-And, in their wake, the rediscovery of Mother India, with which all links had been cut since the 16th century*.
+And, in their wake, the rediscovery of Mother India, with which all links had been cut since the 16th century(1).
 
 It is then that the Balinese intellectuals had a big surprise: they found that their traditional _Veda_ were mere mantras, and not the “real” _Veda_.
 
@@ -62,7 +62,7 @@ But it is stated nowhere that one becomes a _Brahmin_, _Ksatria_ or _Sudra__ by 
 
 These “revelations” were a godsend for progressive Balinese intellectuals. So the real _Vedas_ were democratic! Amazing!
 
-There were no castes! If in Bali the local _brahmana_ and _satria_ aristocrats claim that they are entitled to inherited privileges, it means that they don’t practice “real” Hinduism. This had to change, they thought.
+There were no castes! If in Bali the local _Brahmana_ and _Satria_ aristocrats claim that they are entitled to inherited privileges, it means that they don’t practice “real” Hinduism. This had to change, they thought.
 
 Balinese religion should be reshaped to be in accordance with the newly discovered canonic text.
 
@@ -70,15 +70,15 @@ Balinese echoes of what **Martin Luther** did with the Bible 500 years ago in Eu
 
 The first thing was to revise history, so serious Balinese intellectuals said that when the Javanese invaded Bali in 1343, they pushed back into the mountain the previously ruling aristocrats and priests.
 
-They soon replaced these old rulers with their own new ruling classes, the _satria_ and _brahmana_ lineages (_wangsa_) of today’s Bali.
+They soon replaced these old rulers with their own new ruling classes, the _Satria_ and _Brahmanas_ lineages (_wangsa_) of today’s Bali.
 
-This meant that the proud brahmanas and satrias of the pre-colonial years were, effectively, usurpers. They had no more right to become high priests and rulers than anyone else.
+This meant that the proud _Brahmanas_ and _Satrias_ of the pre-colonial years were, effectively, usurpers. They had no more right to become high priests and rulers than anyone else.
 
 Having thus re-read the caste system with the help of the _Veda_, and having revised history, our progressive intellectuals had now to transform reality.
 
-This took place following independence, after the highest satria lineages, that of the kings, had lost forever their right to rule.
+This took place following independence, after the highest Satria lineages, that of the kings, had lost forever their right to rule.
 
-Before long, activists from commoners’ clans claimed that, having disposed of the satria kings, they likewise did not need the _brahmanas_ high-priests to run their greatest ceremonies.
+Before long, activists from commoners’ clans claimed that, having disposed of the _Satria_ kings, they likewise did not need the _Brahmanas_ high-priests to run their greatest ceremonies.
 
 They had their own holy men who could undertake all the rites requested and thus become high-priests for their own clan. And they soon put that into practice.
 
@@ -88,7 +88,7 @@ Others soon followed, representing all the main clans of the island, until each 
 
 This means that there are now two types of high priests, the new, reformed ones whose legitimacy rests on ideal Indian references and clan peculiarities.
 
-Whereas the legitimacy of the traditional high-caste brahmana priests – the _pedanda Siwa_ and _pedanda Buda_ – rests on the role they have held for several centuries, and on the magical powers that naturally ensue.
+Whereas the legitimacy of the traditional high-caste _Brahmanas_ priests – the _Pedanda Siwa_ and _Pedanda Buda_ – rests on the role they have held for several centuries, and on the magical powers that naturally ensue.
 
 At the beginning of the post-independence period, issues of caste and priesthood were not the most urgent.
 
@@ -96,7 +96,7 @@ Hinduism had to organise and obtain recognition from the Indonesian government (
 
 So the reformed and the traditional wings of Balinese Hinduism set aside their differences and cohabited within the same Hindu Affairs Society, the _Parisada_.
 
-But with time, the _sisia_ (following) of traditional brahmana houses started shrinking, as educated people tended to affiliate with the new commoner priests. Inevitably tensions occurred more frequently and the two groups split.
+But with time, the _Sisia_ (following) of traditional _Brahmana_ houses started shrinking, as educated people tended to affiliate with the new commoner priests. Inevitably tensions occurred more frequently and the two groups split.
 
 But it was only an organisational split. Even today the two groups of priests may ‘steal’ one another’s followers, but there has been no genuine societal and theological split.
 
@@ -104,11 +104,11 @@ The priests’ function next to one another, sometimes ignoring one another, at 
 
 Furthermore, the two types of priest have often similar looks, with hair buns and tiaras, which sets them up well above the fray, as if truly twice born.
 
-Last but not least, they don’t interfere in ordinary rites, which are the realm of _pemangku_ temple priests and _balian_ medium priests.
+Last but not least, they don’t interfere in ordinary rites, which are the realm of _Pemangku_ temple priests and _Balian_ medium priests.
 
 The high-priests deal with the ‘cosmological’ aspects of Balinese religion, that of the Hindu gods, which have little to do with the ancestors’ cult at the core of Balinese religious practice.
 
-Anyway, history is still present. A _brahmana_ friend recently told me about the ‘new’ commoner priests. He said,
+Anyway, history is still present. A _Brahmana_ friend recently told me about the ‘new’ commoner priests. He said,
 
 >“If they want to become high-priests, let them do it. In any case, when they are ordained, or when they prepare holy water, they cannot make do without replicating the rituals and repeating the mantras we created centuries ago. If they can make holy water, it is because of us.”
 
@@ -124,6 +124,6 @@ In conclusion, despite the differences that have come to being, no, the Balinese
 
 _Footnotes:_
 
-1. It followed the fall of the _Vijayanagara__ empire in the _Dekkan_ (1565) and the subsequent islamisation of all trade in the Indian Ocean.
+(1). It followed the fall of the _Vijayanagara__ empire in the _Dekkan_ (1565) and the subsequent islamisation of all trade in the Indian Ocean.
 
-2. _Buda_ high-priests use _Buddhist mantras_ and literary references within the mainly _Shivaist_ system.
+(2). _Buda_ high-priests use _Buddhist mantras_ and literary references within the mainly _Shivaist_ system.

@@ -10,7 +10,7 @@ Sexuality is a very sensitive topic in Indonesia, but open to so many contradict
 
 At the same time as someone from the People’s Representative Council was downloading hardcore pornography on their iPad caught in the act by a photographer they were able to pass a strict anti-pornography bill.
 
-In spite, or because of such hypocrisy, in the official register of Indonesia, there is very little room for anything outwardly sexual, and blunt sexual speech is out of the question.
+In spite, or because of such hypocrisy, in the official register of Indonesia, there is very little room for anything outwardly sexual, and blunt sexual speech is out of the question. 
 
 Whenever the topic is raised, it is not only with embarrassment, but also with the tendency to attribute anything overly sexual to tourism and other foreign influences, the issue is often seen as foreign influences being negative, unless properly filtered by someone local of course.
 
@@ -22,7 +22,7 @@ Not only are the street people regularly descriptive, but also very imaginative.
 
 It is interesting, for example, to see how well garage jargon has been filtered , if you like, by the local culture, to produce a highly modern depiction of a sexual act, often in relation to the motorbike.
 
-Thus, one does not make love, but one changes one’s engine oil” (_ganti oli_) or “one leans the bike on its stand” (_pasang dongkrak_). If the bike doesn t start, it means that your ampere meter does not work properly (_ampere sing majalan_), clearly a metaphor for someone s manhood not functioning.
+Thus, one does not make love, but one changes one’s engine oil” (_ganti oli_) or “one leans the bike on its stand” (_pasang dongkrak_). If the bike doesn't start, it means that your ampere meter does not work properly (_ampere sing majalan_), clearly a metaphor for someone s manhood not functioning.
 
 These few examples bear witness to the role that the engine in general, and more specifically the bike, plays part not only in Balinese transportation, but also in Balinese banter!
 
@@ -40,23 +40,23 @@ This awareness of sexuality is deeply rooted, through symbolism, in the mentalit
 
 As in other agrarian societies, Earth is the _Mother Goddess, Pertiwi_, provider of food and symbol of fertility.
 
-Its complementary opposite, with which it comes into union, is the Sky, _Father Akasa_, the symbol of the fertilizing elements.
+Its complementary opposite, with which it comes into union, is the Sky, _Father Akasa_, the symbol of the fertilising elements.
 
 This belief sometimes led to pseudo magic religious manipulations.
 
-The Balinese peasants who intended to plant vegetables used to stick a stump of wood into the earth to fertilize it, thus maintaining the unity of the cosmic sexual poles.
+The Balinese peasants who intended to plant vegetables used to stick a stump of wood into the earth to fertilise it, thus maintaining the unity of the cosmic sexual poles.
 
 Men and women often took this symbolism quite literally and hoped to use it for their own, more unorthodox purposes.
 
 In some villages, until quite recently, it was common practice for unmarried women to lie on their back and implore _Father Akasa_ to bestow upon them a mate, as it was for men to lie on their belly and address _Mother Pertiwi_, as if there were some kind of union between men and women wand their cosmic partners.
 
-Those social symbols and behaviors have a long story behind them.
+Those social symbols and behaviours have a long story behind them.
 
 Archeologists have discovered in Bali sarcophagi in the shape of women in the coital position.
 
 On the famous nekara bronze drum of Pejeng, one finds the etching of a frog with a similar female symbolism.
 
-And everywhere there are phallic menhirs and stones dating back to the megalithic pre Hindu times, usually set side by side with an object a split stone for instance that symbolizes the female component.
+And everywhere there are phallic menhirs and stones dating back to the megalithic pre Hindu times, usually set side by side with an object a split stone for instance that symbolises the female component.
 
 Many of these objects have been integrated within the paraphernalia of Balinese temples as part of local cults of fertility.
 

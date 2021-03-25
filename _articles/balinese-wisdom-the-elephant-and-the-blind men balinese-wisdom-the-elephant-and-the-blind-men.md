@@ -54,7 +54,7 @@ Knowledge is unknowable.
 
 This skepticism illustrates what can be called a “theology of the relative”, as opposed to the “theology of the absolute” found in Mediterranean religious traditions.
 
-To the Balinese, what matters is not ﬁnding Truth itself, which is always “unknowable”, but the endeavor of man – and hence, of religion – in the direction of Truth.
+To the Balinese, what matters is not finding Truth itself, which is always “unknowable”, but the endeavour of man – and hence, of religion – in the direction of Truth.
 
 It is one’s deeds, one’s _karma_ (actions), which determine one’s future in the transmigration of the soul.
 

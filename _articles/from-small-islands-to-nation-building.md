@@ -11,9 +11,9 @@ _**Imagine two small islands of little importance, somewhere in the middle of th
 
 _**Its people are religious dreamers; leftovers from a revolution that had their ancestors, a few generations ago, think that they could make a personal reading of the holy Christian scriptures. They view themselves as God’s chosen few.**_
 
-As neighbors they have a few savages and, in the far away distance, small communities of other God’s chosen people.
+As neighbours they have a few savages and, in the far away distance, small communities of other God’s chosen people.
 
-They speak Dutch, while their neighbors, equally in search of the chosen land, speak English.
+They speak Dutch, while their neighbours, equally in search of the chosen land, speak English.
 
 Both groups are poor, equally far from and neglected by their respective motherland, but also equally hardworking on the land.
 
@@ -27,15 +27,15 @@ What they hunt for are riches, as the wild mercenaries of the far away London an
 
 A commodity one single cargo of which guarantees a lasting wealth to its lucky ship-owner. Indeed, a commodity for which even the “chosen ones” forget God and kill.
 
-To Britain and Holland, the second island is more valuable indeed than the ﬁrst one.
+To Britain and Holland, the second island is more valuable indeed than the first one.
 
 Holland, still the great sea power of the days, controls the routes to the East: The Cape, Cochin, Malacca and Batavia, while Britain competes with the French and Spaniards for the control of the Caribbean islands, where the next commodity of value, sugar, has found a fertile ground.
 
 The British have more people in the vicinity of the cold island, whereas the Dutch have more ships and adventurers in the vicinity of the second one.
 
-So, after much blood and tears, both sides eventually relent anddecide to make peace.
+So, after much blood and tears, both sides eventually relent and decide to make peace.
 
-The Dutch merchants exult: they have won, or so they think. Theyretain ownership over the islands of their riches.
+The Dutch merchants exult: they have won, or so they think. They retain ownership over the islands of their riches.
 
 They will have full control over the spice trade. In exchange they just have to hand over to the British the cold estuary island and its God’s seeking settlers.
 
@@ -43,7 +43,7 @@ But the Dutch won only on the short term. The settlers, British and Dutch alike,
 
 From a few tens of thousand, they were soon hundreds of thousands, and then a couple of million.
 
-Their descendants are now 300 hundred millions, because the small island the Dutch so foolishly gave up was Manhattan --now the heart of the modern Babel.
+Their descendants are now 300 hundred millions, because the small island the Dutch so foolishly gave up was Manhattan - now the heart of the modern Babel.
 
 Yet, before America knew its hour of glory - now, Holland had its own.
 
@@ -61,7 +61,7 @@ They were in the Indies to exploit the “natives”, while the settlers were in
 
 By the beginning of the 20th century, the few tens of thousands of settlers on American land had become a powerful country, strong enough to expel the European powers from its vicinity.
 
-After the defeat of Spain (1898), its land empire was quickly becoming a continental and, ﬁfty years later, a global empire. The settlers had won.
+After the defeat of Spain (1898), its land empire was quickly becoming a continental and, fifty years later, a global empire. The settlers had won.
 
 In the East, meanwhile, eager to continue exploiting the riches of what was becoming a “colonial” country, the Dutch started training locals to modern methods of management and technology.
 
@@ -78,16 +78,16 @@ They discovered, and then decided they were Indonesians. Bahasa Indonesia would 
 
 And they would get rid of the Dutch, whether the latter liked it or not.
 
-The rest is mythicized, but nevertheless real history.
+The rest is mythicised, but nevertheless real history.
 
-There were adventurous revolutionaries, like _Tan Malaka_; there were ﬁery orators like Sukarno and rational thinkers like _Hatta_; there were also nurses and teachers, peasants and peddlers, ordinary people. All ﬁrst dreamed, then wanted, and ﬁnally got independence.
+There were adventurous revolutionaries, like _Tan Malaka_; there were fiery orators like Sukarno and rational thinkers like _Hatta_; there were also nurses and teachers, peasants and peddlers, ordinary people. All first dreamed, then wanted, and finally got independence.
 
 
 They got it in blood, just after going through the country’s darkest hour: Japanese occupation.
 
 They proclaimed independence on August 17th 1945, two days after Japan’s unconditional capitulation.
 
-A long war ensued, now and then interrupted by UN-sponsored cease.ﬁres… until the Dutch eventually recognized that their spice war victory at Run was just an accident of history. Late 1949, they recognized Indonesian independence.
+A long war ensued, now and then interrupted by UN-sponsored ceasefire until the Dutch eventually recognised that their spice war victory at Run was just an accident of history. Late 1949, they recognised Indonesian independence.
 
 But what would have happened if they had retained control over Manhattan, or if the British had prevailed in Run?
 
