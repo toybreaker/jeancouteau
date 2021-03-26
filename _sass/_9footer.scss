@@ -10,12 +10,13 @@
   @include media("screen", ">bp1Width") {
     background-color: var(--bg, black);
     color: var(--text, white);
+    padding: 1vw 0;
 
     .container {
       position: fixed;
       transform: rotate(-90deg);
       transform-origin: bottom right;
-      bottom: 29rem;
+      bottom: 25rem;
       right: -3rem;
     }
   }

@@ -17,7 +17,8 @@
 
   @include media("screen", ">bp1Width") {
     position: fixed;
-    bottom: 0rem;
+    bottom: -8vw;
+    padding-bottom: 1rem;
   }
 
   .header_block {
