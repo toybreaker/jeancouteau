@@ -8,12 +8,18 @@
 
     </a>
 
-    <div class="toggle_button">
-      {% include svg/use.html id="icn--day" class="day" %}
-      {% include svg/use.html id="icn--night" class="night" %}
+    <div class="header_icons">
+
+      <div class="email_button">
+        <a title="send Jean an email!" href="mailto:{{site.company.email}}">{% include svg/use.html id="icn--email" class="mail" %}</a>
+      </div>
+
+      <div class="toggle_button">
+        {% include svg/use.html id="icn--day" class="day" %}
+        {% include svg/use.html id="icn--night" class="night" %}
+      </div>
+
     </div>
-
-
 
     {% if site.has_menu %}
 

@@ -6,7 +6,7 @@
 
   {% include head.html %}
 
-  <body class="{{ page.title | slugify }} {% if site.menu %}{{ site.menu }}{% endif %}">
+  <body class="{{ page.title | slugify }} {% if page.layout == 'article' %}article{% endif %} {% if site.menu %}{{ site.menu }}{% endif %}">
 
     {% include svg/defs.html %}
 

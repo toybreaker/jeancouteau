@@ -1,5 +1,5 @@
 .article_list {
-  margin-top: $space;
+  margin-top: $space--small;
   margin-bottom: $space;
 }
 
@@ -19,4 +19,8 @@
   margin-bottom: $space;
   border-top: 1px solid var(--border, LightGray);
   border-bottom: 1px solid var(--border, LightGray);
+}
+
+.article .article_title {
+  margin-top: $space--small;
 }
