@@ -7,7 +7,7 @@ description:
 image:
 tags: Balinese dukun magic priest religion spirits brothers
 ---
-I had often seen the old man. Dressed in white, his head swathed in the white cloth of the _Pemangku_ priest, limping slightly and his face full of wrinkles, he had a majesty that came with age. He would always smile at me when I drove past him.
+I had often seen the old man. Dressed in white, his head swathed in the white cloth of the _Pemangku_ priest, limping slightly and his face full of wrinkles, he had a majesty that came with age. He would always smile at me when I drove past him. 
 
 Me, the stranger from the riverside, the friend of the _Gamang_ spirits and neighbor of the long-haired ghost from the river garden shrine.
 
