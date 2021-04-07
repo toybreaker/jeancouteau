@@ -19,6 +19,7 @@
     max-width: 100%;
     @include media("screen", ">minWidth") {
       max-width: 600px;
+      margin: 0 10vw 0 auto;
     }
   }
 
